@@ -1,0 +1,5 @@
+AuthUserFile /var/www/opdivo/public/.htpasswd
+AuthGroupFile /dev/null
+AuthName "opdivo"
+AuthType Basic
+require valid-user

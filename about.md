@@ -13,6 +13,9 @@ Jekyll theme. You can find out more info about customizing your Jekyll theme, as
 *a
 *b
 *c
+***
+___
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

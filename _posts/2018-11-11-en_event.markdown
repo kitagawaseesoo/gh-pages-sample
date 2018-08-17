@@ -5,5 +5,5 @@ date:   2018-11-11 00:00:00 +0900
 showdate: 2018.11.11
 lang: en
 categories: EVENT
-url: https://sc18.supercomputing.org/
+outurl: https://sc18.supercomputing.org/
 ---

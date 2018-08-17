@@ -92,7 +92,6 @@
 {% assign inx = 0 %}
 {% for post in site.posts %}
   {% if post.lang == 'ja' %} 
-  {% if post.categories == 'EVENT' %} 
 
 
 
@@ -103,7 +102,6 @@
     {% endif %}
 
     {{ inx = inx + 1 }}
-  {% endif %}
   {% endif %}
 {% endfor %}
 </ul>

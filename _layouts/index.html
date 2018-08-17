@@ -62,7 +62,7 @@
 {% for post in site.posts %}
   {% if post.lang == 'en' %} 
     {% if post.outurl != null and post.outurl != '' %} 
-<li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
+<li><a href=".{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% else %}
 <li><a href="{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}

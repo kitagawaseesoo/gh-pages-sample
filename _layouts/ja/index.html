@@ -92,7 +92,7 @@
 {% for post in site.posts %}
   {% if post.lang == 'ja' %} 
 
-    {% if tmp.length >= 3 %} 
+    {% if tmp.size >= 3 %} 
       {% assign class = 'class="disnone"' %}
     {% else %}
       {% assign class = "" %}

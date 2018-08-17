@@ -61,10 +61,10 @@
 {% for post in site.posts %}
 <li><a href="{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
   {% if post.lang == 'ja' %} 
-    {% if post.outurl == '' %} 
-<li><a href="{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
-    {% else %}
+    {% if post.outurl != null %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
+    {% else %}
+<li><a href="{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}
 
     {% assign inx = inx + 1 %}

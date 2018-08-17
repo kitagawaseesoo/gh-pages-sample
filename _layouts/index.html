@@ -67,8 +67,8 @@
 <li><a href=".{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}
 
-    {% assign inx = inx + 1 %}
-    {% if inx >= 3 %} 
+    {% increment inx %}
+    {% if inx >= 4 %} 
       {% break %}
     {% endif %}
   {% endif %}

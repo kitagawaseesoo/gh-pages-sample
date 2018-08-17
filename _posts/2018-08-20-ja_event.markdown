@@ -5,4 +5,5 @@ date:   2018-08-20 00:00:00 +0900
 showdate: 2018.08.20
 lang: ja
 categories: EVENT
+img: event4.png
 ---

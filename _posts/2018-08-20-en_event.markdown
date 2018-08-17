@@ -2,6 +2,6 @@
 layout: post
 title:  "ABCI特別セミナー「AIとどう向き合うか」"
 date:   2018-08-20 00:00:00 +0900
-lang: ja
+lang: en
 categories: EVENT
 ---

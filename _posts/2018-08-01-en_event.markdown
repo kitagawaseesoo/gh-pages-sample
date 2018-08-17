@@ -2,6 +2,6 @@
 layout: post
 title:  "ABCI運用開始"
 date:   2018-08-01 00:00:00 +0900
-lang: ja
+lang: en
 categories: EVENT
 ---

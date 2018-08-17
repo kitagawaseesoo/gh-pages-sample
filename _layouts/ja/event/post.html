@@ -1,25 +1,27 @@
+{% assign dir = "../../../.." %}
+{% assign nav_event = "active" %}
 <!doctype html>
 <html>
 
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
-<title>ABCIグランドチャレンジ2018（第１回） - イベント情報 | ABCI</title>
-<link rel="stylesheet" href="../../css/style.css" />
-<link rel="stylesheet" href="../../css/sub.css" />
-<script type='text/javascript' src='../../js/jquery.js'></script>
-<script type='text/javascript' src='../../js/base.js'></script>
-<link rel="icon" sizes="32x32" href="../../img/favicon-32x32.png">
-<link rel="icon" sizes="192x192" href="../../img/meta/touch-icon-192x192.png">
-<link rel="apple-touch-icon-precomposed" sizes="180x180" href="../../img/meta/apple-touch-icon-180x180-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../img/meta/apple-touch-icon-152x152-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../img/meta/apple-touch-icon-144x144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="../../img/meta/apple-touch-icon-120x120-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../img/meta/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="../../img/meta/apple-touch-icon-76x76-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../img/meta/apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="../../img/meta/apple-touch-icon-precomposed.png">
-<meta name="msapplication-TileImage" content="../../img/meta/msapplication_tileimage.png">
+<title>{{ page.title }}</title>
+<link rel="stylesheet" href="../../../../css/style.css" />
+<link rel="stylesheet" href="../../../../css/sub.css" />
+<script type='text/javascript' src='../../../../js/jquery.js'></script>
+<script type='text/javascript' src='../../../../js/base.js'></script>
+<link rel="icon" sizes="32x32" href="../../../../img/favicon-32x32.png">
+<link rel="icon" sizes="192x192" href="../../../../img/meta/touch-icon-192x192.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="../../../../img/meta/apple-touch-icon-180x180-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../../img/meta/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../../../img/meta/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="../../../../img/meta/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../../../../img/meta/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="../../../../img/meta/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../../../../img/meta/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="../../../../img/meta/apple-touch-icon-precomposed.png">
+<meta name="msapplication-TileImage" content="../../../../img/meta/msapplication_tileimage.png">
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118371652-1"></script>
 <script>
@@ -38,81 +40,12 @@ gtag('config', 'UA-118371652-1');
 <header id="header">
 <div class="wraps">
 
-<a href="../../ja/" id="logo"><img src="../../img/logo.png" alt="ABCI" /></a>
+<a href="../../../../ja/" id="logo"><img src="../../../../img/logo.png" alt="ABCI" /></a>
 <span id="menu_btn" class="sp"><a href="javascript:;"><span></span><span></span><span></span></a><font>MENU</font></span>
 <div id="nav_wrap">
 
 <nav id="nav">
-<ul class="ns cf">
-<li><a href="../../ja/"><img src="../../img/icon/home.png" alt="ホーム" class="pc" /><span class="sp">ホーム</span></a></li>
-<li>
-<strong>ABCIについて</strong>
-<ul class="ns">
-<li><a href="../../ja/about_abci/">ABCIとは</a></li>
-<li><a href="../../ja/about_abci/leadership.html">リーダーシップ</a></li>
-<li><a href="../../ja/about_abci/computing_resource.html">計算資源</a></li>
-<li><a href="../../ja/about_abci/datacenter_facility.html">データセンター</a></li>
-<li><a href="../../ja/about_abci/software.html">ソフトウェアスタック</a></li>
-<li><a href="../../ja/about_abci/cloud_service.html">クラウドサービス</a></li>
-<li><a href="../../ja/about_abci/info.html">運転状況</a></li>
-
-</ul>
-</li>
-
-<li>
-<strong>ご利用方法</strong>
-<ul class="ns">
-<li><a href="../../ja/how_to_use/">ご利用申込み方法</a></li>
-<li><a href="../../ja/how_to_use/tariffs.html">ご利用料金</a></li>
-<li><a href="../../ja/how_to_use/user_support.html">ユーザーサポート</a></li>
-<li><a href="../../ja/how_to_use/faq.html">FAQ</a></li>
-</ul>
-</li>
-<li>
-<strong>リサーチ</strong>
-<ul class="ns">
-<li><a href="https://unit.aist.go.jp/rwbc-oil/" target="_blank">RWBC-OIL</a></li>
-<li><a href="https://www.airc.aist.go.jp/" target="_blank">AIRC</a></li>
-<li><a href="https://www.aist.go.jp/" target="_blank">AIST</a></li>
-</ul>
-</li>
-<li class="active">
-<strong>イベント情報</strong>
-<ul class="ns">
-<li><a href="../../ja/event/">イベント情報アーカイブ</a></li>
-</ul>
-</li>
-<li>
-<strong>ニュース</strong>
-<ul class="ns">
-<li><a href="../../ja/news/">ニュース一覧</a></li>
-</ul>
-</li>
-
-<li class="sp">
-<strong>プライバシーポリシー</strong>
-<ul class="ns">
-<li><a href="../../ja/privacy_policy/">プライバシーポリシー</a></li>
-</ul>
-</li>
-
-</ul>
-</nav>
-
-<div id="header_top">
-<ul class="ns">
-<li>
-<form id="search" onsubmit="google_search(); return false;"> <input id="google-search" placeholder="ABCI Grand Challenge" type="text"><input type="submit" value="" id="serach_btn" onclick="onClik();"></form>
-</li>
-<li id="top_contact"><a href="../../ja/how_to_use/user_support.html"><span></span><strong>お問い合わせ</strong></a></li>
-<li class="change_language sp"><span>日本語</span><a href="../../">English</a></li>
-</ul>
-</div>
-<nav id="change_language" class="pc">
-<ul class="ns">
-<li>日本語&nbsp;/&nbsp;</li>
-<li><a href="../../">English</a></li>
-</ul>
+{% include ja/nav.html %}
 </nav>
 
 
@@ -122,11 +55,11 @@ gtag('config', 'UA-118371652-1');
 
 <div id="sub_area" class="wrap">
 <div id="breadcrumb" class="pc">
-<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="ABCI" href="../../ja/" class="home"><span property="name">HOME</span></a>
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="ABCI" href="../../../../ja/" class="home"><span property="name">HOME</span></a>
 <meta property="position" content="1"></span>
-<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="イベント情報" href="../../ja/event/"><span property="name">イベント情報</span></a>
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="イベント情報" href="../../../../ja/event/"><span property="name">イベント情報</span></a>
 <meta property="position" content="2"></span>
-<span property="itemListElement" typeof="ListItem"><span property="name">ABCIグランドチャレンジ2018（第１回）</span>
+<span property="itemListElement" typeof="ListItem"><span property="name">{{ page.title }}</span>
 <meta property="position" content="3"></span>
 </div>
 <h1 class="h1">イベント情報</h1>
@@ -136,133 +69,18 @@ gtag('config', 'UA-118371652-1');
 <div id="archive_contents" class="wrap">
 <div class="cf">
 <aside id="archive_left">
-2018.7.23-27
+{{ page.showdate }}
 </aside>
 
 <div id="archive_container">
-<h2 class="ah2">ABCIグランドチャレンジ2018（第１回）</h2>
-<div class="lead_text">国立研究開発法人 産業技術総合研究所（以下、産総研）は、莫大な演算能力によりはじめて可能になる人工知能分野の最重要課題への挑戦を支援するため、AI橋渡しクラウド（ABCI）で「ABCIグランドチャレンジ」プログラムを実施します。ABCIグランドチャレンジは、ABCIがもつ最大計算ノード数である1,088ノード（4,352GPU）を最大24時間、1研究グループでの占有利用ができる公募型チャレンジプログラムです。世界最大規模の人工知能処理向け計算インフラストラクチャであるABCIを用いて画期的な成果の達成が見込まれる、挑戦的な研究課題のご提案をお待ちしております。</div>
-<br />
-<h3 class="ah3">提供資源の詳細</h3>
-<ul class="dot_ul">
-<li class="dot">AI橋渡しクラウド（ABCI）</li>
-<li class="dot">1,088ノード（4,352GPU）を最大24時間占有利用できます。</li>
-</ul>
-
-<br />
-
-<h3 class="ah3">ABCIグランドチャレンジ実施概要（2018年度）</h3>
-<p class="c">2018年度は以下の通り3回プログラムを実施します。</p>
-
-<table class="table">
-<tr align="center">
-<th>&nbsp;</th>
-<th>募集期間</th>
-<th>採否通知</th>
-<th>チャレンジ実施期間</th>
-</tr>
-<tr>
-<td>第1回【募集中】</td>
-<td>2018.4.1-2018.4.30</td>
-<td>2018.5.30</td>
-<td>2018.7.23-2018.7.27</td>
-</tr>
-<tr>
-<td>第2回</td>
-<td>2018.8.1-2018.8.31</td>
-<td>2018.9.30</td>
-<td>2018.10末（予定）</td>
-</tr>
-<tr>
-<td>第3回</td>
-<td>2018.11.1-2018.11.30</td>
-<td>2018.12.21</td>
-<td>2019.1末（予定）</td>
-</tr>
-</table>
-<br />
-
-<br />
-<ul class="dot_ul">
-<li class="dot">課題は公募制とし、個人、グループでの提案が可能です。</li>
-<li class="dot">いずれの回も2課題程度を採択する予定です。</li>
-<li class="dot">必要に応じて産総研との共同研究として実施して頂きます。</li>
-<li class="dot">採択課題については、チャレンジ実施前にABCI上で小規模実行によるリハーサルを行う機会を提供します。</li>
-<li class="dot">利用料金はリハーサルを含め無料です。</li>
-<li class="dot">ABCIの利用にあたっては、後日策定される「産総研共用高性能計算機利用約款」において定められる事項を遵守していただきます。</li>
-</ul>
-
-<br />
-
-<h3 class="ah3">課題および申請者の要件</h3>
-
-<ul class="dot_ul">
-<li class="dot"> ABCI上で最大1,088ノード（4,352GPU）を使用して大規模処理を実施する、人工知能に関する挑戦的な課題であること。</li>
-<li class="dot">チャレンジ実施の際にABCI上で最大ノードを適切に使い切るために万全の準備ができる課題であり、そのために必要な体制を整えることができること。</li>
-<li class="dot">申請者は国内の大学、公的研究機関、民間企業に所属する者であること。</li>
-</ul>    
-
-<br />
-
-<h3 class="ah3">応  募</h3>
-<div class="c">
-<p>応募書類の様式は以下からダウンロードしてください。</p>
-<p><a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word形式</strong></a> <a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF形式</strong></a></p>
-応募書類に必要事項を記入し、申込期限までに下記メールアドレスに電子メールで提出してください。<br />
-提出先メールアドレス: <a href="mailto:abci-gc@aist.go.jp" target="_blank" class="link"><strong>abci-gc@aist.go.jp</strong></a><br />
-審査結果は電子メールにて通知します。<br />
-</div>
-
-
-
-
-<h3 class="ah3">課題審査</h3>
-<div class="c">
-<p class="mb2p">課題審査は、ABCIグランドチャレンジ実行委員会に設置される課題審査委員会において、書類審査およびその結果を踏まえた討議により行います。</p>
-主な審査項目は以下の通りです<br />
-<ul class="dot_ul">
-<li class="dot">課題が挑戦的であること</li>
-<li class="dot">人工知能分野における画期的な成果が得られる見込みがあること</li>
-<li class="dot">学術的あるいは社会的なインパクト</li>
-<li class="dot">計画の実現性、妥当性</li>
-<li class="dot">実施体制</li>
-</ul>   
-</div>
-
-
-
-<h3 class="ah3">成  果</h3>
-<ul class="dot_ul">
-<li class="dot">実施結果は、課題実施後1か月以内に産総研が提供する様式にしたがった実施報告書として提出してください。</li>
-<li class="dot">本プログラムによって得られた成果は、原則として公開していただきます。</li>
-<li class="dot">成果公開に際しては「ABCIを利用したこと」と「ABCIグランドチャレンジプログラムによるものであること」を明記していただきます。</li>
-<li class="dot">産総研が主催、共催するセミナーやワークショップなどでご発表いただく場合があります。</li>
-<li class="dot">ABCIグランドチャレンジにより得られた知的財産権は、すべて採択課題の実施者に帰属します。ただし、産総研との共同研究として実施した課題は共同研究契約に従います。</li>
-</ul>  
-
-<br />
-
-<h3 class="ah3">研究成果を報告する場合の表記</h3>
-<div class="c">
-<p>本プログラムを用いて得た成果を論文等を出版される場合は、以下の例文の記載をお願いします。</p>
-<div>
-<strong>■ 本プログラムの名称</strong><br />
-日本語 ／ 産総研「ABCIグランドチャレンジ」プログラム<br />
-英語 ／ “ABCI Grand Challenge” Program, National Institute of Advanced Industrial Science and Technology (AIST).
-</div>
-<div>
-<strong>■ 謝辞の文例</strong><br />
-日本語 ／ 産総研「ABCIグランドチャレンジ」プログラムにより提供を受けた，AI橋渡しクラウド（ABCI）の計算リソースを用いた．<br />
-英語 ／ Computational resource of AI Bridging Cloud Infrastructure (ABCI) was awarded by
-“ABCI Grand Challenge” Program, National Institute of Advanced Industrial Science and Technology (AIST).
-
+{{ content }}
 </div>
 </div>
 
 
 </div>
 <div class="btn_area">
-<a href="../../ja/" class="btn">トップに戻る</a>
+<a href="../../../../ja/" class="btn">トップに戻る</a>
 </div>
 </div>
 
@@ -270,58 +88,7 @@ gtag('config', 'UA-118371652-1');
 </div>
 
 <footer id="footer">
-<div id="pageTop">
-<div class="wrap"><a href="#header"><span>TOP</span></a></div>
-</div>
-
-<div id="footer_wrap" class="wrap">
-
-<nav id="foot_nav" class="pc">
-<ul class="ns cf">
-<li>
-<strong>ABCIについて</strong>
-<a href="../../ja/about_abci/">ABCIとは</a>
-<a href="../../ja/about_abci/leadership.html">リーダーシップ</a>
-<a href="../../ja/about_abci/computing_resource.html">計算資源</a>
-<a href="../../ja/about_abci/datacenter_facility.html">データセンター</a>
-<a href="../../ja/about_abci/software.html">ソフトウェアスタック</a>
-<a href="../../ja/about_abci/cloud_service.html">クラウドサービス</a>
-<a href="../../ja/about_abci/info.html">運転状況</a>
-</li>
-<li>
-<strong>ABCIのご利用方法</strong>
-<a href="../../ja/how_to_use/">ご利用申込み方法</a>
-<a href="../../ja/how_to_use/user_support.html">ユーザーサポート</a>
-<a href="../../ja/how_to_use/tariffs.html">ご利用料金</a>
-<a href="../../ja/how_to_use/faq.html">FAQ</a>
-</li>
-<li>
-<strong>リサーチ</strong>
-<a href="https://unit.aist.go.jp/rwbc-oil/" target="_blank">RWBC-OIL</a>
-<a href="https://www.airc.aist.go.jp/" target="_blank">AIRC</a>
-<a href="https://www.aist.go.jp/" target="_blank">AIST</a>
-</li>
-<li>
-<strong>イベント情報</strong>
-<a href="../../ja/event/">イベント情報アーカイブ</a>
-</li>
-<li>
-<strong>ニュース</strong>
-<a href="../../ja/news/">ニュース一覧</a>
-</li>
-<li class="x">
-<a href="../../ja/how_to_use/user_support.html">お問い合わせ先</a>
-<a href="../../ja/privacy_policy/">プライバシーポリシー</a>
-</li>
-</ul>
-</nav>
-
-<p>Copyright ©National Institute of Advanced Industrial Science and Technology(AIST)(Japan Corporate Number 7010005005425). All rights reserved.</p>
-<div id="footer_bottom">
-<a href="https://www.aist.go.jp/" target="_blank"><img src="../../img/foot_logo.png" /></a>
-</div>
-
-</div>
+{% include ja/footer.html %}
 </footer>
 
 </body>

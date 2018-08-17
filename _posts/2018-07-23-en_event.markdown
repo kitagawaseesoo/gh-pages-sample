@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "ABCIグランドチャレンジ2018（第１回）"
+title:  "ABCI Grand Challenge (1st)"
 date:   2018-07-23 00:00:00 +0900
+showdate:  2018.7.23-27
 lang: en
 categories: EVENT
 ---

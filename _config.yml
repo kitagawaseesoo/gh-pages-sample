@@ -1,5 +1,6 @@
 title: ABCI
 markdown: kramdown
+permalink: date
 plugins:
   - jekyll-feed
 gems:

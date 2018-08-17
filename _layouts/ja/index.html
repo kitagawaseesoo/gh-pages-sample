@@ -59,6 +59,7 @@
 <ul class="ns">
 {% assign inx = 0 %}
 {% for post in site.posts %}
+{{ post.url }}
   {% if post.lang == 'ja' %} 
     {% if post.outurl == '' %} 
 <li><a href="{{ post.permalink }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>

@@ -68,13 +68,34 @@ gtag('config', 'UA-118371652-1');
 <h2 class="h2">ニュース一覧</h2>
 <ul id="news_ul">
 
+{% assign tmp = "" %}
+{% for post in site.posts %}
+  {% if post.lang == 'ja' %} 
+    {% for categories in post.categories %}
+      {% if categories == 'NEWS' %} 
 
-<li class="news"><a href="https://www.aist.go.jp/aist_j/press_release/pr2018/pr20180626/pr20180626.html" class="news_link" target="_blank"><strong class="news_date">2018.6.26</strong>大規模AIクラウド計算システム「ABCI」がスパコン性能ランキング世界5位</a></li>
-<li class="news"><a href="./201808.html" class="news_link"><strong class="news_date">2018.7.23-27</strong>ABCIグランドチャレンジ2018（第１回）</a></li>
+        {% if post.outurl != null and post.outurl != '' %} 
+<li class="news"><a href="{{ post.outurl }}" class="news_link" target="_blank"><strong class="news_date">{{ post.showdate }}</strong>{{ post.title }}</a></li>
+        {% else %}
+<li class="news"><a href="../..{{ post.url }}" class="news_link"><strong class="news_date">{{ post.showdate }}</strong>{{ post.title }}</a></li>
+        {% endif %}
+
+        {% assign tmp = tmp | append: "*" %}
+
+      {% endif %}
+    {% endfor %}
+
+    {% if tmp.size >= 100 %} 
+      {% break %}
+    {% endif %}
+
+  {% endif %}
+{% endfor %}
+
+
 
 
 </ul>
-<!-- <div id="pagenation"><a class="prev" href="#">前へ</a><span class="current">1</span><!--a href="#" class="page">2</a--><a class="next" href="#">次へ</a></div> -->
 
 </div>
 

@@ -66,8 +66,8 @@
 <li><a href="{{ post.url }}" target="_blank"><span>2018.6.26 [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}
 
-    {% inx = inx + 1 %}
-    {% if inx >= 5 %} 
+    {% assign inx = inx + 1 %}
+    {% if inx >= 2 %} 
       {% break %}
     {% endif %}
   {% endif %}

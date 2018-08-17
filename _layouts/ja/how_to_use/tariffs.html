@@ -1,5 +1,6 @@
 {% assign dir = "../.." %}
 {% assign nav_how_to_use = "active" %}
+{% assign side_menu_how_to_use_tariffs = "active" %}
 <!doctype html>
 <html>
 
@@ -68,10 +69,7 @@ gtag('config', 'UA-118371652-1');
 <aside id="left">
 <div id="sub_menu_select" class="sp">メニュー<span></span></div>
 <nav id="side_menu">
-<a href="../../ja/how_to_use/"><span>ご利用申込み方法</span></a>
-<a href="../../ja/how_to_use/tariffs.html" class="active"><span>ご利用料金</span></a>
-<a href="../../ja/how_to_use/user_support.html"><span>ユーザーサポート</span></a>
-<a href="../../ja/how_to_use/faq.html"><span>FAQ</span></a>
+{% include ja/side_menu_how_to_use.html %}
 </nav>
 </aside>
 

@@ -1,5 +1,6 @@
 {% assign dir = "../.." %}
 {% assign nav_about_abci = "active" %}
+{% assign side_menu_about_abci_computing_resource = "active" %}
 <!doctype html>
 <html>
 <head>
@@ -55,14 +56,7 @@
 <aside id="left">
 <div id="sub_menu_select" class="sp">メニュー<span></span></div>
 <nav id="side_menu">
-<a href="../../ja/about_abci/"><span>ABCIとは</span></a>
-<a href="../../ja/about_abci/leadership.html"><span>リーダーシップ</span></a>
-<a href="../../ja/about_abci/computing_resource.html" class="active"><span>計算資源</span></a>
-<a href="../../ja/about_abci/datacenter_facility.html"><span>データセンター</span></a>
-<a href="../../ja/about_abci/software.html"><span>ソフトウェアスタック</span></a>
-<a href="../../ja/about_abci/cloud_service.html"><span>クラウドサービス</span></a>
-<a href="../../ja/about_abci/info.html"><span>運転状況</span></a>
-
+{% include ja/side_menu_about_abci.html %}
 </nav>
 </aside>
 

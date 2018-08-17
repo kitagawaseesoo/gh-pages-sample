@@ -59,7 +59,6 @@
 <ul class="ns">
 {% assign inx = 0 %}
 {% for post in site.posts %}
-<li><a href="{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
   {% if post.lang == 'ja' %} 
     {% if post.outurl != null %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>

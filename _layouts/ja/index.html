@@ -57,7 +57,7 @@
 <div id="abci_headline">
 <h2 class="widget_title mb15">ABCIヘッドライン</h2>
 <ul class="ns">
-{% assign inx = 0 %}
+{% assign inx2 = 0 %}
 {% for post in site.posts %}
   {% if post.lang == 'ja' %} 
     {% if post.outurl != null and post.outurl != '' %} 
@@ -67,7 +67,7 @@
     {% endif %}
 
     {% increment inx %}
-    {% if inx >= 4 %} 
+    {% if inx >= 3 %} 
       {% break %}
     {% endif %}
   {% endif %}
@@ -89,7 +89,7 @@
 <div id="event">
 <h2 class="widget_title">イベント情報<a href="../ja/event/" class="more_link">イベント情報アーカイブ</a></h2>
 <ul class="ns cf">
-{% assign inx = 0 %}
+{% assign inx3 = 0 %}
 {% for post in site.posts %}
   {% if post.lang == 'ja' %} 
 

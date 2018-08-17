@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ja/event/post
 title:  "ABCIグランドチャレンジ2018（第１回）"
 date:   2018-07-23 00:00:00 +0900
 showdate: 2018.07.23

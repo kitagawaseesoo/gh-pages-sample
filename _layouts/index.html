@@ -58,7 +58,7 @@
 <div id="abci_headline">
 <h2 class="widget_title mb15">ABCI Headline</h2>
 <ul class="ns">
-{% assign inx = 0 %}
+{% assign tmp = "" %}
 {% for post in site.posts %}
   {% if post.lang == 'en' %} 
     {% if post.outurl != null and post.outurl != '' %} 
@@ -67,8 +67,8 @@
 <li><a href=".{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}
 
-    {% increment inx %}
-    {% if inx >= 4 %} 
+    {% assign tmp = tmp | append: "*" %}
+    {% if tmp.size >= 5 %} 
       {% break %}
     {% endif %}
   {% endif %}
@@ -89,12 +89,30 @@
 <div id="event">
 <h2 class="widget_title">Event<a href="./ja/event/" class="more_link">Event Archives</a></h2>
 <ul class="ns cf">
-<li><a href="./ja/event/event3.html"><div><strong>ABCI Cloud Service is open.</strong></div><figure><img src="img/event/event3.png" alt="" /></figure><p class="cf"><img src="img/icon/s_logo.png" />2018.8.1</p></a></li>
-<li><a href="./ja/event/event4.html"><div><strong>ABCI Special Seminar; “How do you take AI?”</strong></div><figure><img src="img/event/event4.png" alt="" /></figure><p class="cf"><img src="img/icon/s_logo.png" />2018.8.20</p></a></li>
-<li><a href="./ja/event/event5.html"><div><strong>ABCI Grand Challenge (2nd)</strong></div><figure><img src="img/event/event2.png" alt="" /></figure><p class="cf"><img src="img/icon/s_logo.png" />2018.10</p></a></li>
-<li class="disnone"><a href="https://sc18.supercomputing.org/" target="_blank"><div><strong>SC 18</strong></div><figure><img src="img/event/event5.png" alt="" /></figure><p class="cf"><img src="img/icon/s_logo.png" />2018.11.11-16</p></a></li>
+{% assign tmp = "" %}
+{% for post in site.posts %}
+  {% if post.lang == 'en' %} 
+    {% for categories in post.categories %}
+      {% if categories == 'EVENT' %} 
 
+        {% if tmp.size >= 3 %} 
+          {% assign class = ' class="disnone"' %}
+        {% else %}
+          {% assign class = "" %}
+        {% endif %}
 
+        {% if post.outurl != null and post.outurl != '' %} 
+<li{{ class }}><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+        {% else %}
+<li{{ class }}><a href="..{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/event3.png" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+        {% endif %}
+
+        {% assign tmp = tmp | append: "*" %}
+
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
 </ul>   
 </div>
 

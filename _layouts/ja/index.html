@@ -102,7 +102,7 @@
         {% endif %}
 
         {% if post.outurl != null and post.outurl != '' %} 
-<li{{ class }}><a href="{{ post.url }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/event3.png" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+<li{{ class }}><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
         {% else %}
 <li{{ class }}><a href="..{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../img/event/event3.png" alt="" /></figure><p class="cf"><img src="../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
         {% endif %}

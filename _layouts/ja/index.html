@@ -60,14 +60,14 @@
 {% assign inx = 0 %}
 {% for post in site.posts %}
   {% if post.lang == 'ja' %} 
-    {% if post.url == '' %} 
-<li><a href="../ja/news/201808.html"><span>2018.7.23-27 [{{ post.categories }}]</span>{{ post.title }}</a></li>
+    {% if post.outurl == '' %} 
+<li><a href="{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% else %}
-<li><a href="{{ post.url }}" target="_blank"><span>2018.6.26 [{{ post.categories }}]</span>{{ post.title }}</a></li>
+<li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}
 
     {% assign inx = inx + 1 %}
-    {% if inx >= 2 %} 
+    {% if inx >= 3 %} 
       {% break %}
     {% endif %}
   {% endif %}

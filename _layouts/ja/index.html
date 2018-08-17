@@ -57,6 +57,12 @@
 <div id="abci_headline">
 <h2 class="widget_title mb15">ABCIヘッドライン</h2>
 <ul class="ns">
+{% for post in site.posts %}
+<li>
+{{ post.title }}!!!
+</li>
+{% endfor %}
+
 <li><a href="https://www.aist.go.jp/aist_j/press_release/pr2018/pr20180626/pr20180626.html" target="_blank"><span>2018.6.26 [NEWS]</span>大規模AIクラウド計算システム「ABCI」がスパコン性能ランキング世界5位</a></li>
 <li><a href="../ja/news/201808.html"><span>2018.7.23-27 [NEWS]</span>ABCIグランドチャレンジ2018（第１回）</a></li>
 <li><a href="../ja/event/event3.html"><span>2018.8.1 [EVENT]</span>ABCI運用開始</a></li>

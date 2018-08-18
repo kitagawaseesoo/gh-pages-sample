@@ -1,8 +1,5 @@
 title: ABCI
-twitter_username: jekyllrb
-github_username:  jekyll
 markdown: kramdown
-theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 gems:

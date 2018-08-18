@@ -1,9 +1,10 @@
 ---
-layout: index
+layout: ja_about_abci_index
 title: ABCIとは - ABCIについて | ABCI
 permalink: /ja/about_abci/
 ---
 <div id="container">
+**ABCIとは**
 <h2 class="h2">ABCIとは</h2>
 <div class="lead_text">AI橋渡しクラウド（AI Bridging Cloud Infrastructure、ABCI) は、国立研究開発法人 産業技術総合研究所が構築・運用する、世界最大規模の人工知能処理向け計算インフラストラクチャです。
 </div>

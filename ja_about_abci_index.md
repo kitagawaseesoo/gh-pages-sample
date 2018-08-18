@@ -3,9 +3,10 @@ layout: ja_about_abci_index
 title: ABCIとは - ABCIについて | ABCI
 permalink: /ja/about_abci/
 ---
-#ABCI@@
 
 <div id="container">
+
+##ABCIテスト
 
 #ABCIとは
 

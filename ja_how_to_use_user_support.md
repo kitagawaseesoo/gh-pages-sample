@@ -1,0 +1,61 @@
+---
+layout: ja/how_to_use/user_support
+title: ユーザーサポート - ご利用方法 | ABCI
+permalink: /ja/how_to_use/user_support.html
+---
+<h2 class="h2">ユーザーサポート</h2>
+<h3 class="h3">カスタマーサポート窓口は下記の通りです。</h3>
+
+<ul class="number_ul">
+
+	<li class="number">
+	<strong style="color:#00314F;">利用申請受付：<a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a></strong><br />
+	<strong style="color:#00314F;">サポート範囲(時間帯は 平日9:00-17:00)</strong><br />
+		<ul class="dot_ul">
+			<li class="dot">ABCI利用申請受付</li>
+			<li class="dot">ABCI利用料金の質問受付</li>
+		</ul>
+	</li>
+
+	<li class="number">
+	<strong style="color:#00314F;">運用サポート：<a href="mailto:qa@abci.ai" target="_blank"><u>qa@abci.ai</u></a></strong><br />
+	<strong style="color:#00314F;">サポート範囲(時間帯は 平日9:00-17:00)</strong><br />
+	<strong>質問対応</strong>
+		<ul class="dot_ul">
+			<li class="dot">ログイン手順</li>
+			<li class="dot">データ転送手順・データ回収手順</li>
+			<li class="dot">導入済みのソフトウェア環境への質問</li>
+			<li class="dot">典型的なフレームワークソフトウェアの導入手順（利用手引き）の開示</li>
+			<li class="dot">ジョブの投入方法・予算コードの指定方法の手順、等</li>
+			<li class="dot">不具合対応</li>
+			<li class="dot">H/W障害</li>
+			<li class="dot">Network障害</li>
+			<li class="dot">ノードハング、等</li>
+		</ul>
+	</li>
+
+	<li class="number">
+	<strong style="color:#00314F;"><a href="mailto:qa@abci.ai" target="_blank"><u>qa@abci.ai</u></a>へ質問する際には、下記を記載してメール送付お願いします。</strong><br />
+		<ul class="dot_ul">
+			<li class="dot">[氏名]:</li>
+			<li class="dot">[ABCI アカウント名]:</li>
+			<li class="dot">[ABCI 利用グループ名]:</li>
+			<li class="dot">[所属機関]:</li>
+			<li class="dot">[登録メールアドレス]:</li>
+			<li class="dot">[質問内容]:</li>
+		</ul>
+	</li>
+
+
+</ul>
+
+
+<br />
+<div class="lead_text">
+ABCI利用者向けのご利用手引き等については、下記URLをご参照ください。<br /><br />
+日本語：　<a href="https://portal.abci.ai/docs/ja/" target="_blank"><u>https://portal.abci.ai/docs/ja/</u></a><br />
+英語：　　<a href="https://portal.abci.ai/docs/en/" target="_blank"><u>https://portal.abci.ai/docs/en/</u></a>
+
+
+</div>
+

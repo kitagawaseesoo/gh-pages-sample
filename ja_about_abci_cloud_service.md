@@ -112,5 +112,3 @@ permalink: /ja/about_abci/cloud_service.html
 
 </table>
 
-</div>
-

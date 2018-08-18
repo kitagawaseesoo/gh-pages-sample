@@ -4,9 +4,13 @@ title: ABCIとは - ABCIについて | ABCI
 permalink: /ja/about_abci/
 ---
 
+_ああ_
+
+
 <div id="container">
 
-##ABCIテスト
+
+_いい_
 
 #ABCIとは
 
@@ -72,3 +76,6 @@ permalink: /ja/about_abci/
     </div>
     <div align="right"><img src="../../img/about_abci/img1.jpg"></div>
 </div>
+
+_うう_
+

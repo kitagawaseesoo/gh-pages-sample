@@ -1,69 +1,68 @@
 ---
 layout: index
-title: ABCI�Ƃ� - ABCI�ɂ��� | ABCI
+title: ABCIとは - ABCIについて | ABCI
 permalink: /ja/about_abci/
 ---
-!!!!!!!!!!
-        <div id="container">
-            <h2 class="h2">ABCI�Ƃ�</h2>
-            <div class="lead_text">AI���n���N���E�h�iAI Bridging Cloud Infrastructure�AABCI) �́A���������J���@�l �Y�ƋZ�p�������������\�z�E�^�p����A���E�ő�K�͂̐l�H�m�\���������v�Z�C���t���X�g���N�`���ł��B
-            </div>
-            
-                <h3 class="h3">���E�ő勉�E���ȓd�́E�I�[�v���`�h�C���t���X�g���N�`��</h3>
-                <div class="c">
-                <ul class="dot_ul">
-                    <li class="dot">���E�g�b�v���x���̌v�Z�����\�͂��f�[�^�����\�́B</li>
-                    <li class="dot">�`�h�ƃr�b�O�f�[�^�̃A���S���Y���A�\�t�g�E�F�A�A���p�J���̂��߂̃I�[�v������p�̌v�Z�C���t���X�g���N�`���B</li>
-                    <li class="dot">�䂪���ɂ�����Y�w�������̂`�h�����J������������v���b�g�t�H�[���B</li>
-                </ul>
-                </div>
-                <div class="column">
-                    <ul class="square_ul">
-                        <li class="square">550 AI-PFLOPS�i�����x�j, 37 PFLOPS�i�{���x�j</li>
-                        <li class="square">2.3 MW</li>
-                        <li class="square">&lt;1.1 Avg. PUE</li>
-                    </ul>
-                   
-                    <strong style="color:#000">2018�N8���^�p�J�n</strong>
-                </div>
-                 <br /><br />
-                <img src="../../img/about_abci/map.png" /> <br /><br />
-                <h3 class="h3">�`�h�C���t���X�g���N�`�� for everyone</h3>
-				<div class="c">
-                <h4 class="h4">�X�N���b�`���璴�����x�f�[�^�Z���^��݌v</h4>
-                <ul class="dot_ul">
-                    <li class="dot">��R�X�g�A�y�ʂȁu�q�Ɂv�����A���̒��Ɂu�₮��v��g�ޓ�d�\����݌v</li>
-                    <li class="dot">�ʏ�̃f�[�^�Z���^��20�{�̔M���x������</li>
-                </ul>
-                <br />
+<div id="container">
+<h2 class="h2">ABCIとは</h2>
+<div class="lead_text">AI橋渡しクラウド（AI Bridging Cloud Infrastructure、ABCI) は、国立研究開発法人 産業技術総合研究所が構築・運用する、世界最大規模の人工知能処理向け計算インフラストラクチャです。
+</div>
 
-                <h4 class="h4">���ȓd��</h4>
-                <ul class="dot_ul">
-                    <li class="dot">�X�p�R�������̗�p�V�X�e���̖������p</li>
-                    <li class="dot">������p�Ƌ��̕��p�ɂ���p�ɗv����d�͂��팸�A���b�N������70kW�̗�p���\��</li>
-                </ul>
-                <br />
-                <h4 class="h4">�f�t�@�N�gHW&amp;SW�A�[�L�e�N�`���̗̍p</h4>
-                <ul class="dot_ul">
-                    <li class="dot">�f�t�@�N�g���R���f�B�e�B��HW�A�`�h�����A�N�Z�����[�^���̗p</li>
-                    <li class="dot">�Ő�[��HPC�E�`�h�\�t�g�E�F�A���Y�̊��p�A�v���ȋZ�p�ړ]���\��</li>
-                </ul>
-                <br />
+    <h3 class="h3">世界最大級・超省電力・オープンＡＩインフラストラクチャ</h3>
+    <div class="c">
+    <ul class="dot_ul">
+        <li class="dot">世界トップレベルの計算処理能力とデータ処理能力。</li>
+        <li class="dot">ＡＩとビッグデータのアルゴリズム、ソフトウェア、応用開発のためのオープンかつ専用の計算インフラストラクチャ。</li>
+        <li class="dot">我が国における産学官共同のＡＩ研究開発を加速するプラットフォーム。</li>
+    </ul>
+    </div>
+    <div class="column">
+        <ul class="square_ul">
+            <li class="square">550 AI-PFLOPS（半精度）, 37 PFLOPS（倍精度）</li>
+            <li class="square">2.3 MW</li>
+            <li class="square">&lt;1.1 Avg. PUE</li>
+        </ul>
+       
+        <strong style="color:#000">2018年8月運用開始</strong>
+    </div>
+     <br /><br />
+    <img src="../../img/about_abci/map.png" /> <br /><br />
+    <h3 class="h3">ＡＩインフラストラクチャ for everyone</h3>
+	<div class="c">
+    <h4 class="h4">スクラッチから超高密度データセンタを設計</h4>
+    <ul class="dot_ul">
+        <li class="dot">低コスト、軽量な「倉庫」を作り、その中に「やぐら」を組む二重構造を設計</li>
+        <li class="dot">通常のデータセンタの20倍の熱密度を実現</li>
+    </ul>
+    <br />
 
-                <h4 class="h4">�\�t�g�E�F�A�G�R�V�X�e���̊��p</h4>
-                <ul class="dot_ul">
-                    <li class="dot">�R���e�i�ɂ��\�t�g�E�F�A���Y�̒~�ρE���p�A�O���[�o���R�~���e�B�ł̑��݊��p�𑣐i</li>
-                </ul>
-                <br />
+    <h4 class="h4">超省電力</h4>
+    <ul class="dot_ul">
+        <li class="dot">スパコン向けの冷却システムの民生利用</li>
+        <li class="dot">温水冷却と空冷の併用により冷却に要する電力を削減、ラックあたり70kWの冷却を可能に</li>
+    </ul>
+    <br />
+    <h4 class="h4">デファクトHW&amp;SWアーキテクチャの採用</h4>
+    <ul class="dot_ul">
+        <li class="dot">デファクト＆コモディティのHW、ＡＩ向けアクセラレータを採用</li>
+        <li class="dot">最先端のHPC・ＡＩソフトウェア資産の活用、迅速な技術移転を可能に</li>
+    </ul>
+    <br />
 
-                <h4 class="h4">�f�[�^�̈��S�Ȋ��p�̑��i</h4>
-                <ul class="dot_ul">
-                    <li class="dot">�}���`�y�^�o�C�g�X�P�[���̍����X�g���[�W�A�f�[�^�̋��L�E���J�����f�[�^��Ղ��</li>
-                    <li class="dot">�ʐM�H�ƃf�[�^���N���E�h�̃f�t�@�N�g�Z�p���g���ĈÍ���</li>
-                </ul>
-                <br />
+    <h4 class="h4">ソフトウェアエコシステムの活用</h4>
+    <ul class="dot_ul">
+        <li class="dot">コンテナによるソフトウェア資産の蓄積・利用、グローバルコミュティでの相互活用を促進</li>
+    </ul>
+    <br />
 
-                <strong>���S�̌����@�ցE��w�E��Ƃ̗��p�E���ƁA����̌����ҁE�G���W�j�A�ɂ�闘�p�𑣐i</strong>
-                </div>
-                <div align="right"><img src="../../img/about_abci/img1.jpg"></div>
-            </div>
+    <h4 class="h4">データの安全な活用の促進</h4>
+    <ul class="dot_ul">
+        <li class="dot">マルチペタバイトスケールの高速ストレージ、データの共有・公開向けデータ基盤を提供</li>
+        <li class="dot">通信路とデータをクラウドのデファクト技術を使って暗号化</li>
+    </ul>
+    <br />
+
+    <strong>数百の研究機関・大学・企業の利用・協業、数千の研究者・エンジニアによる利用を促進</strong>
+    </div>
+    <div align="right"><img src="../../img/about_abci/img1.jpg"></div>
+</div>

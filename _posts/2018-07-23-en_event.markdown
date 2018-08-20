@@ -7,118 +7,118 @@ lang: en
 categories: EVENT
 img: event2.png
 ---
-<h2 class="ah2">ABCI�O�����h�`�������W2018�i��P��j</h2>
-<div class="lead_text">���������J���@�l �Y�ƋZ�p�����������i�ȉ��A�Y�����j�́A����ȉ��Z�\�͂ɂ��͂��߂ĉ\�ɂȂ�l�H�m�\����̍ŏd�v�ۑ�ւ̒�����x�����邽�߁AAI���n���N���E�h�iABCI�j�ŁuABCI�O�����h�`�������W�v�v���O���������{���܂��BABCI�O�����h�`�������W�́AABCI�����ő�v�Z�m�[�h���ł���1,088�m�[�h�i4,352GPU�j���ő�24���ԁA1�����O���[�v�ł̐�L���p���ł������^�`�������W�v���O�����ł��B���E�ő�K�͂̐l�H�m�\���������v�Z�C���t���X�g���N�`���ł���ABCI��p���ĉ���I�Ȑ��ʂ̒B���������܂��A����I�Ȍ����ۑ�̂���Ă����҂����Ă���܂��B</div>
+<h2 class="ah2">ABCIグランドチャレンジ2018（第１回）</h2>
+<div class="lead_text">国立研究開発法人 産業技術総合研究所（以下、産総研）は、莫大な演算能力によりはじめて可能になる人工知能分野の最重要課題への挑戦を支援するため、AI橋渡しクラウド（ABCI）で「ABCIグランドチャレンジ」プログラムを実施します。ABCIグランドチャレンジは、ABCIがもつ最大計算ノード数である1,088ノード（4,352GPU）を最大24時間、1研究グループでの占有利用ができる公募型チャレンジプログラムです。世界最大規模の人工知能処理向け計算インフラストラクチャであるABCIを用いて画期的な成果の達成が見込まれる、挑戦的な研究課題のご提案をお待ちしております。</div>
 <br />
-<h3 class="ah3">�񋟎����̏ڍ�</h3>
+<h3 class="ah3">提供資源の詳細</h3>
 <ul class="dot_ul">
-<li class="dot">AI���n���N���E�h�iABCI�j</li>
-<li class="dot">1,088�m�[�h�i4,352GPU�j���ő�24���Ԑ�L���p�ł��܂��B</li>
+<li class="dot">AI橋渡しクラウド（ABCI）</li>
+<li class="dot">1,088ノード（4,352GPU）を最大24時間占有利用できます。</li>
 </ul>
 
 <br />
 
-<h3 class="ah3">ABCI�O�����h�`�������W���{�T�v�i2018�N�x�j</h3>
-<p class="c">2018�N�x�͈ȉ��̒ʂ�3��v���O���������{���܂��B</p>
+<h3 class="ah3">ABCIグランドチャレンジ実施概要（2018年度）</h3>
+<p class="c">2018年度は以下の通り3回プログラムを実施します。</p>
 
 <table class="table">
 <tr align="center">
 <th>&nbsp;</th>
-<th>��W����</th>
-<th>�̔ےʒm</th>
-<th>�`�������W���{����</th>
+<th>募集期間</th>
+<th>採否通知</th>
+<th>チャレンジ実施期間</th>
 </tr>
 <tr>
-<td>��1��y��W���z</td>
+<td>第1回【募集中】</td>
 <td>2018.4.1-2018.4.30</td>
 <td>2018.5.30</td>
 <td>2018.7.23-2018.7.27</td>
 </tr>
 <tr>
-<td>��2��</td>
+<td>第2回</td>
 <td>2018.8.1-2018.8.31</td>
 <td>2018.9.30</td>
-<td>2018.10���i�\��j</td>
+<td>2018.10末（予定）</td>
 </tr>
 <tr>
-<td>��3��</td>
+<td>第3回</td>
 <td>2018.11.1-2018.11.30</td>
 <td>2018.12.21</td>
-<td>2019.1���i�\��j</td>
+<td>2019.1末（予定）</td>
 </tr>
 </table>
 <br />
 
 <br />
 <ul class="dot_ul">
-<li class="dot">�ۑ�͌��吧�Ƃ��A�l�A�O���[�v�ł̒�Ă��\�ł��B</li>
-<li class="dot">������̉��2�ۑ���x���̑�����\��ł��B</li>
-<li class="dot">�K�v�ɉ����ĎY�����Ƃ̋��������Ƃ��Ď��{���Ē����܂��B</li>
-<li class="dot">�̑��ۑ�ɂ��ẮA�`�������W���{�O��ABCI��ŏ��K�͎��s�ɂ�郊�n�[�T�����s���@���񋟂��܂��B</li>
-<li class="dot">���p�����̓��n�[�T�����܂ߖ����ł��B</li>
-<li class="dot">ABCI�̗��p�ɂ������ẮA������肳���u�Y�������p�����\�v�Z�@���p�񊼁v�ɂ����Ē�߂��鎖�������炵�Ă��������܂��B</li>
+<li class="dot">課題は公募制とし、個人、グループでの提案が可能です。</li>
+<li class="dot">いずれの回も2課題程度を採択する予定です。</li>
+<li class="dot">必要に応じて産総研との共同研究として実施して頂きます。</li>
+<li class="dot">採択課題については、チャレンジ実施前にABCI上で小規模実行によるリハーサルを行う機会を提供します。</li>
+<li class="dot">利用料金はリハーサルを含め無料です。</li>
+<li class="dot">ABCIの利用にあたっては、後日策定される「産総研共用高性能計算機利用約款」において定められる事項を遵守していただきます。</li>
 </ul>
 
 <br />
 
-<h3 class="ah3">�ۑ肨��ѐ\���҂̗v��</h3>
+<h3 class="ah3">課題および申請者の要件</h3>
 
 <ul class="dot_ul">
-<li class="dot"> ABCI��ōő�1,088�m�[�h�i4,352GPU�j���g�p���đ�K�͏��������{����A�l�H�m�\�Ɋւ��钧��I�ȉۑ�ł��邱�ƁB</li>
-<li class="dot">�`�������W���{�̍ۂ�ABCI��ōő�m�[�h��K�؂Ɏg���؂邽�߂ɖ��S�̏������ł���ۑ�ł���A���̂��߂ɕK�v�ȑ̐��𐮂��邱�Ƃ��ł��邱�ƁB</li>
-<li class="dot">�\���҂͍����̑�w�A���I�����@�ցA���Ԋ�Ƃɏ�������҂ł��邱�ƁB</li>
+<li class="dot"> ABCI上で最大1,088ノード（4,352GPU）を使用して大規模処理を実施する、人工知能に関する挑戦的な課題であること。</li>
+<li class="dot">チャレンジ実施の際にABCI上で最大ノードを適切に使い切るために万全の準備ができる課題であり、そのために必要な体制を整えることができること。</li>
+<li class="dot">申請者は国内の大学、公的研究機関、民間企業に所属する者であること。</li>
 </ul>    
 
 <br />
 
-<h3 class="ah3">��  ��</h3>
+<h3 class="ah3">応  募</h3>
 <div class="c">
-<p>���发�ނ̗l���͈ȉ�����_�E�����[�h���Ă��������B</p>
-<p><a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word�`��</strong></a> <a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF�`��</strong></a></p>
-���发�ނɕK�v�������L�����A�\�������܂łɉ��L���[���A�h���X�ɓd�q���[���Œ�o���Ă��������B<br />
-��o�惁�[���A�h���X: <a href="mailto:abci-gc@aist.go.jp" target="_blank" class="link"><strong>abci-gc@aist.go.jp</strong></a><br />
-�R�����ʂ͓d�q���[���ɂĒʒm���܂��B<br />
+<p>応募書類の様式は以下からダウンロードしてください。</p>
+<p><a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word形式</strong></a> <a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF形式</strong></a></p>
+応募書類に必要事項を記入し、申込期限までに下記メールアドレスに電子メールで提出してください。<br />
+提出先メールアドレス: <a href="mailto:abci-gc@aist.go.jp" target="_blank" class="link"><strong>abci-gc@aist.go.jp</strong></a><br />
+審査結果は電子メールにて通知します。<br />
 </div>
 
 
 
 
-<h3 class="ah3">�ۑ�R��</h3>
+<h3 class="ah3">課題審査</h3>
 <div class="c">
-<p class="mb2p">�ۑ�R���́AABCI�O�����h�`�������W���s�ψ���ɐݒu�����ۑ�R���ψ���ɂ����āA���ސR������т��̌��ʂ𓥂܂������c�ɂ��s���܂��B</p>
-��ȐR�����ڂ͈ȉ��̒ʂ�ł�<br />
+<p class="mb2p">課題審査は、ABCIグランドチャレンジ実行委員会に設置される課題審査委員会において、書類審査およびその結果を踏まえた討議により行います。</p>
+主な審査項目は以下の通りです<br />
 <ul class="dot_ul">
-<li class="dot">�ۑ肪����I�ł��邱��</li>
-<li class="dot">�l�H�m�\����ɂ��������I�Ȑ��ʂ������錩���݂����邱��</li>
-<li class="dot">�w�p�I���邢�͎Љ�I�ȃC���p�N�g</li>
-<li class="dot">�v��̎������A�Ó���</li>
-<li class="dot">���{�̐�</li>
+<li class="dot">課題が挑戦的であること</li>
+<li class="dot">人工知能分野における画期的な成果が得られる見込みがあること</li>
+<li class="dot">学術的あるいは社会的なインパクト</li>
+<li class="dot">計画の実現性、妥当性</li>
+<li class="dot">実施体制</li>
 </ul>   
 </div>
 
 
 
-<h3 class="ah3">��  ��</h3>
+<h3 class="ah3">成  果</h3>
 <ul class="dot_ul">
-<li class="dot">���{���ʂ́A�ۑ���{��1�����ȓ��ɎY�������񋟂���l���ɂ������������{�񍐏��Ƃ��Ē�o���Ă��������B</li>
-<li class="dot">�{�v���O�����ɂ���ē���ꂽ���ʂ́A�����Ƃ��Č��J���Ă��������܂��B</li>
-<li class="dot">���ʌ��J�ɍۂ��ẮuABCI�𗘗p�������Ɓv�ƁuABCI�O�����h�`�������W�v���O�����ɂ����̂ł��邱�Ɓv�𖾋L���Ă��������܂��B</li>
-<li class="dot">�Y��������ÁA���Â���Z�~�i�[�⃏�[�N�V���b�v�Ȃǂł����\���������ꍇ������܂��B</li>
-<li class="dot">ABCI�O�����h�`�������W�ɂ�蓾��ꂽ�m�I���Y���́A���ׂč̑��ۑ�̎��{�҂ɋA�����܂��B�������A�Y�����Ƃ̋��������Ƃ��Ď��{�����ۑ�͋��������_��ɏ]���܂��B</li>
+<li class="dot">実施結果は、課題実施後1か月以内に産総研が提供する様式にしたがった実施報告書として提出してください。</li>
+<li class="dot">本プログラムによって得られた成果は、原則として公開していただきます。</li>
+<li class="dot">成果公開に際しては「ABCIを利用したこと」と「ABCIグランドチャレンジプログラムによるものであること」を明記していただきます。</li>
+<li class="dot">産総研が主催、共催するセミナーやワークショップなどでご発表いただく場合があります。</li>
+<li class="dot">ABCIグランドチャレンジにより得られた知的財産権は、すべて採択課題の実施者に帰属します。ただし、産総研との共同研究として実施した課題は共同研究契約に従います。</li>
 </ul>  
 
 <br />
 
-<h3 class="ah3">�������ʂ�񍐂���ꍇ�̕\�L</h3>
+<h3 class="ah3">研究成果を報告する場合の表記</h3>
 <div class="c">
-<p>�{�v���O������p���ē������ʂ�_�������o�ł����ꍇ�́A�ȉ��̗ᕶ�̋L�ڂ����肢���܂��B</p>
+<p>本プログラムを用いて得た成果を論文等を出版される場合は、以下の例文の記載をお願いします。</p>
 <div>
-<strong>�� �{�v���O�����̖���</strong><br />
-���{�� �^ �Y�����uABCI�O�����h�`�������W�v�v���O����<br />
-�p�� �^ �gABCI Grand Challenge�h Program, National Institute of Advanced Industrial Science and Technology (AIST).
+<strong>■ 本プログラムの名称</strong><br />
+日本語 ／ 産総研「ABCIグランドチャレンジ」プログラム<br />
+英語 ／ “ABCI Grand Challenge” Program, National Institute of Advanced Industrial Science and Technology (AIST).
 </div>
 <div>
-<strong>�� �ӎ��̕���</strong><br />
-���{�� �^ �Y�����uABCI�O�����h�`�������W�v�v���O�����ɂ��񋟂��󂯂��CAI���n���N���E�h�iABCI�j�̌v�Z���\�[�X��p�����D<br />
-�p�� �^ Computational resource of AI Bridging Cloud Infrastructure (ABCI) was awarded by
-�gABCI Grand Challenge�h Program, National Institute of Advanced Industrial Science and Technology (AIST).
+<strong>■ 謝辞の文例</strong><br />
+日本語 ／ 産総研「ABCIグランドチャレンジ」プログラムにより提供を受けた，AI橋渡しクラウド（ABCI）の計算リソースを用いた．<br />
+英語 ／ Computational resource of AI Bridging Cloud Infrastructure (ABCI) was awarded by
+“ABCI Grand Challenge” Program, National Institute of Advanced Industrial Science and Technology (AIST).

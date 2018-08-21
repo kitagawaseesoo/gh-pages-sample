@@ -75,7 +75,7 @@ outurl:
 <h3 class="ah3">応  募</h3>
 <div class="c">
 <p>応募書類の様式は以下からダウンロードしてください。</p>
-<p><a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word形式</strong></a> <a href="https://abci.ai/assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF形式</strong></a></p>
+<p><a href="../../../../assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word形式</strong></a> <a href="../../../../assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF形式</strong></a></p>
 応募書類に必要事項を記入し、申込期限までに下記メールアドレスに電子メールで提出してください。<br />
 提出先メールアドレス: <a href="mailto:abci-gc@aist.go.jp" target="_blank" class="link"><strong>abci-gc@aist.go.jp</strong></a><br />
 審査結果は電子メールにて通知します。<br />

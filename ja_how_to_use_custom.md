@@ -11,7 +11,11 @@ permalink: /ja/how_to_use/custom.html
 <div style="text-align:left;">* 利用申請方法</div>
 <ul class="number_ul">
 <li class="number">約款(PDF)をダウンロードしてください。約款に合意していただくことが、利用申請を行う条件となります。<br /><a href="data/yakkan.pdf" target="_blank"><u>約款ダウンロード[PDF 231KB]</u></a></li>
-<li class="number">ABCI利用申請は、下記のWebサイトより行ってください。<br /><a href="https://portal.abci.ai/user/project_regist_app.php" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php</u></a></li>
+<li class="number">
+  ABCI利用申請は、下記のWebサイトより行ってください。<br />
+  日本語版： <a href="https://portal.abci.ai/user/project_regist_app.php?lang=ja" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php?lang=ja</u></a><br />
+  英語版： <a href="https://portal.abci.ai/user/project_regist_app.php?lang=en" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php?lang=en</u></a>
+</li>
 </ul>
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>

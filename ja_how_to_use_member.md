@@ -24,7 +24,9 @@ permalink: /ja/how_to_use/member.html
 </div>
 </li-->
 <li class="number">
-ABCI利用申請は、下記のWebサイトより行ってください。<br /><a href="https://portal.abci.ai/user/project_regist_app.php" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php</u></a>
+  ABCI利用申請は、下記のWebサイトより行ってください。<br />
+  日本語版： <a href="https://portal.abci.ai/user/project_regist_app.php?lang=ja" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php?lang=ja</u></a><br />
+  英語版： <a href="https://portal.abci.ai/user/project_regist_app.php?lang=en" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php?lang=en</u></a><br />
 </li>
 </ul>
 </div>     

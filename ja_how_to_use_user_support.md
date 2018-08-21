@@ -4,7 +4,7 @@ title: ユーザーサポート - ご利用方法 | ABCI
 permalink: /ja/how_to_use/user_support.html
 ---
 <h2 class="h2">ユーザーサポート</h2>
-<h3 class="h3">カスタマーサポート窓口は下記の通りです。</h3>
+<h3 class="h3">カスタマーサポート窓口</h3>
 
 <ul class="number_ul">
 
@@ -48,14 +48,28 @@ permalink: /ja/how_to_use/user_support.html
 
 
 </ul>
+<br />
+<h3 class="h3">ご利用手引き等</h3>
 
+<h4 class="h4">ABCI利用申請の手引き</h4>
+
+<ul class="dot_ul">
+<li class="dot">日本語版： <a href="https://portal.abci.ai/docs/portal/ja/01" target="_blank"><u>https://portal.abci.ai/docs/portal/ja/01</u></a></li>
+<li class="dot">英語版： <a href="https://portal.abci.ai/docs/portal/en/01" target="_blank"><u>https://portal.abci.ai/docs/portal/en/01</u></a></li>
+</ul>
+<br />
+
+<h4 class="h4">ABCIの停止スケジュール・既知の問題</h4>
+
+<ul class="dot_ul">
+<li class="dot">日本語版： <a href="https://portal.abci.ai/info/ja/" target="_blank"><u>https://portal.abci.ai/info/ja/</u></a></li>
+<li class="dot">英語版： <a href="https://portal.abci.ai/info/en/" target="_blank"><u>https://portal.abci.ai/info/en/</u></a></li>
+</ul>
 
 <br />
-<div class="lead_text">
-ABCI利用者向けのご利用手引き等については、下記URLをご参照ください。<br /><br />
-日本語：　<a href="https://portal.abci.ai/docs/ja/" target="_blank"><u>https://portal.abci.ai/docs/ja/</u></a><br />
-英語：　　<a href="https://portal.abci.ai/docs/en/" target="_blank"><u>https://portal.abci.ai/docs/en/</u></a>
+<h4 class="h4">ABCI利用手引き</h4>
 
-
-</div>
-
+<ul class="dot_ul">
+<li class="dot">日本語版： <a href="https://portal.abci.ai/docs/ja/" target="_blank"><u>https://portal.abci.ai/docs/ja/</u></a></li>
+<li class="dot">英語版： <a href="https://portal.abci.ai/docs/en/" target="_blank"><u>https://portal.abci.ai/docs/en/</u></a></li>
+</ul>

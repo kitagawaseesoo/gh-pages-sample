@@ -1,4 +1,4 @@
----
+﻿---
 layout: ja/how_to_use/custom
 title: ABCI利用を希望する法人等（約款） - ご利用申込み方法 - ご利用方法 | ABCI
 permalink: /ja/how_to_use/custom.html
@@ -21,17 +21,17 @@ permalink: /ja/how_to_use/custom.html
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 <div class="bubble"> <h4 class="h4">必要に応じて産総研から問い合わせに回答</h4></div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-<div class="bubble"> 
+<div class="bubble">
 <h4 class="h4">利用申請受付担当より「回答書」を受領<sup>**</sup></h4>
 <div style="text-align:left;">** 回答書</div>
 <ul class="number_ul">
-<li class="number">利用申請書の内容が規約で定めた事項と齟齬がないことを確認後、回答書をメールにて利用責任者宛に送付いたします。</li>
-<li class="number">利用申込後、6営業日を過ぎても回答書が届かない場合は、「利用申請受付」までご連絡ください。</li>
+<li class="number">利用申請書の内容が約款で定めた事項と齟齬がないことを確認後、回答書をメールにて利用責任者宛に送付いたします。</li>
+<li class="number">利用申込後、１０営業日を過ぎても回答書が届かない場合は、「利用申請受付」までご連絡ください。</li>
 </ul>
 
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-<div class="bubble"> 
+<div class="bubble">
 <h4 class="h4">システムから利用者へ、ABCIアカウント名と初期アクセス方法をメール通知<br />（メールの指示に従って操作すれば、ご利用開始いただけます）</h4>
 </div>
 <br /><br />
@@ -64,7 +64,8 @@ permalink: /ja/how_to_use/custom.html
 <h3 class="h3">ABCI利用登録内容の変更：「約款」別紙様式第３</h3>
 <div class="bubble">
 <h4 class="h4">ABCI利用登録内容の変更届<br />（別紙様式第３）</h4>
-<a href="https://portal.abci.ai/user/" target="_blank"><u>https://portal.abci.ai/user/</u></a>
+  日本語版： <a href="https://portal.abci.ai/user/?lang=ja" target="_blank"><u>https://portal.abci.ai/user/?lang=ja</u></a><br />
+  英語版： <a href="https://portal.abci.ai/user/?lang=en" target="_blank"><u>https://portal.abci.ai/user/?lang=en</u></a><br />
 </div>
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 <div class="bubble">
@@ -90,4 +91,3 @@ permalink: /ja/how_to_use/custom.html
 <div class="bubble">
 <h4 class="h4">基本的に領収書は発行されません。<br />領収書が必要な場合は、料金代理収納会社（計算科学）まで、ご依頼ください。<br />株式会社計算科学ABCI担当 </h4><a href="mailto:cskk-abci@cskk.jp" target="_blank"><u>cskk-abci@cskk.jp</u></a>
 </div>
-

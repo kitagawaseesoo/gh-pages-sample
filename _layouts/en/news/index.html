@@ -45,74 +45,7 @@ gtag('config', 'UA-118371652-1');
 <div id="nav_wrap">
 
 <nav id="nav">
-<ul class="ns cf">
-<li><a href="../../"><img src="../../img/icon/home.png" alt="HOME" class="pc" /><span class="sp">HOME</span></a></li>
-<li>
-<strong>About ABCI</strong>
-<ul class="ns">
-<li><a href="../../en/about_abci/">About ABCI</a></li>
-<li><a href="../../en/about_abci/leadership.html">LEADERSHIP</a></li>
-<li><a href="../../en/about_abci/computing_resource.html">COMPUTING RESOURCES</a></li>
-<li><a href="../../en/about_abci/datacenter_facility.html">DATA CENTER</a></li>
-<li><a href="../../en/about_abci/software.html">SOFTWARE STACK</a></li>
-<li><a href="../../en/about_abci/cloud_service.html">CLOUD SERVICE</a></li>
-<li><a href="../../en/about_abci/info.html">OPERATION STATUS</a></li>
-
-</ul>
-</li>
-
-<li>
-<strong>How to Use ABCI</strong>
-<ul class="ns">
-<li><a href="../../en/how_to_use/">APPLICATION PROCEDURE</a></li>
-<li><a href="../../en/how_to_use/tariffs.html">ABCI USAGE FEES</a></li>
-<li><a href="../../en/how_to_use/user_support.html">CUSTOMER SUPPORT</a></li>
-<li><a href="../../en/how_to_use/faq.html">FAQ</a></li>
-</ul>
-</li>
-<li>
-<strong>RESEARCH</strong>
-<ul class="ns">
-<li><a href="https://unit.aist.go.jp/rwbc-oil/index-en.html" target="_blank">RWBC-OIL</a></li>
-<li><a href="https://www.airc.aist.go.jp/en/" target="_blank">AIRC</a></li>
-<li><a href="https://www.aist.go.jp/index_en.html" target="_blank">AIST</a></li>
-</ul>
-</li>
-<li>
-<strong>EVENTS</strong>
-<ul class="ns">
-<li><a href="../../en/event/">EVENTS ARCHIVE</a></li>
-</ul>
-</li>
-<li class="active">
-<strong>NEWS</strong>
-<ul class="ns">
-<li><a href="../../en/news/">NEWS ARCHIVE</a></li>
-</ul>
-</li>
-<li class="sp">
-<strong>PRIVACY POLICY</strong>
-<ul class="ns">
-<li><a href="../../en/privacy_policy/">PRIVACY POLICY</a></li>
-</ul>
-</li>
-</ul>
-</nav>
-
-<div id="header_top">
-<ul class="ns">
-<li>
-<form id="search" onsubmit="google_search(); return false;"> <input id="google-search" placeholder="ABCI Grand Challenge" type="text"><input type="submit" value="" id="serach_btn" onclick="onClik();"></form>
-</li>
-<li id="top_contact"><a href="../../en/how_to_use/user_support.html"><span></span><strong>CONTACTS</strong></a></li>
-<li class="change_language sp"><a href="../../ja/">日本語</a><span>English</span></li>
-</ul>
-</div>
-<nav id="change_language" class="pc">
-<ul class="ns">
-<li><a href="../../ja/">日本語</a></li>
-<li>&nbsp;/&nbsp;English</li>
-</ul>
+{% include en/nav.html %}
 </nav>
 
 
@@ -134,9 +67,32 @@ gtag('config', 'UA-118371652-1');
 
 <h2 class="h2">NEWS ARCHIVE</h2>
 <ul id="news_ul">
-<li class="news"><a href="https://www.aist.go.jp/aist_j/press_release/pr2018/pr20180626/pr20180626.html" class="news_link" target="_blank"><strong class="news_date">2018.6.26</strong>ABCI ranked 5th on the TOP500 list.</a></li>
+
+{% assign tmp = "" %}
+{% for post in site.posts %}
+  {% if post.lang == 'en' %} 
+    {% for categories in post.categories %}
+      {% if categories == 'NEWS' %} 
+
+        {% if post.outurl != null and post.outurl != '' %} 
+<li class="news"><a href="{{ post.outurl }}" class="news_link" target="_blank"><strong class="news_date">{{ post.showdate }}</strong>{{ post.title }}</a></li>
+        {% else %}
+<li class="news"><a href="../..{{ post.url }}" class="news_link"><strong class="news_date">{{ post.showdate }}</strong>{{ post.title }}</a></li>
+        {% endif %}
+
+        {% assign tmp = tmp | append: "*" %}
+
+      {% endif %}
+    {% endfor %}
+
+    {% if tmp.size >= 100 %} 
+      {% break %}
+    {% endif %}
+
+  {% endif %}
+{% endfor %}
+
 </ul>
-<div id="pagenation"><a class="prev" href="#">BACK</a><span class="current">1</span><!--a href="#" class="page">2</a--><a class="next" href="#">NEXT</a></div>
 
 </div>
 

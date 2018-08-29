@@ -1,14 +1,18 @@
-{% assign dir = "../../../.." %}
-{% assign nav_event = "active" %}
+{% assign dir = "../.." %}
+{% assign nav_how_to_use = "active" %}
 <!doctype html>
 <html>
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
 <title>{{ page.title }}</title>
 <link rel="stylesheet" href="../../css/style.css" />
 <link rel="stylesheet" href="../../css/sub.css" />
+
 <script type='text/javascript' src='../../js/jquery.js'></script>
+<script type='text/javascript' src='../../js/code.js'></script>
+<script type='text/javascript' src='../../js/down.js'></script>
 <script type='text/javascript' src='../../js/base.js'></script>
 <link rel="icon" sizes="32x32" href="../../img/favicon-32x32.png">
 <link rel="icon" sizes="192x192" href="../../img/meta/touch-icon-192x192.png">
@@ -56,36 +60,30 @@ gtag('config', 'UA-118371652-1');
 <div id="breadcrumb" class="pc">
 <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="ABCI" href="../../" class="home"><span property="name">HOME</span></a>
 <meta property="position" content="1"></span>
-<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="EVENTS" href="../../en/event/"><span property="name">EVENTS</span></a>
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="APPLICATION PROCEDURE" href="../../en/how_to_use/"><span property="name">APPLICATION PROCEDURE</span></a>
 <meta property="position" content="2"></span>
-<span property="itemListElement" typeof="ListItem"><span property="name">ABCI CLOUD SERVICE is open.</span>
+<span property="itemListElement" typeof="ListItem"><span property="name">AIST Research Units/Teams</span>
 <meta property="position" content="3"></span>
 </div>
-<h1 class="h1">EVENTS</h1>
-
+<h1 class="h1">How to Use ABCI</h1>
 </div>
 
-<div id="archive_contents" class="wrap">
-<div class="cf">
-<aside id="archive_left">
-{{ page.showdate }}
+<div id="main" class="wrap cf">
+
+<aside id="left">
+<div id="sub_menu_select" class="sp">Menu<span></span></div>
+<nav id="side_menu">
+<a href="../../en/how_to_use/"><span>APPLICATION PROCEDURE</span></a>
+<a href="../../en/how_to_use/custom.html"><span>Corporations or Institutions</span></a>
+<a href="../../en/how_to_use/member.html" class="active"><span>AIST Research Units/Teams</span></a>
+</nav>
 </aside>
 
-<div id="archive_container">
+<div id="container">
 {{ content }}
 </div>
-</div>
-
 
 </div>
-<div class="btn_area">
-<a href="../../" class="btn">TOP</a>
-</div>
-</div>
-
-
-</div>
-
 <footer id="footer">
 {% include en/footer.html %}
 </footer>

@@ -1,5 +1,5 @@
 ﻿---
-layout: ja/how_to_use/custom
+layout: ja/how_to_use/member
 title: 産総研の研究ユニット（規約） - ご利用申込み方法 - ご利用方法 | ABCI
 permalink: /ja/how_to_use/member.html
 ---

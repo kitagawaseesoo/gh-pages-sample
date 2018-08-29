@@ -1,11 +1,12 @@
-{% assign dir = "../../../.." %}
+{% assign dir = "../.." %}
 {% assign nav_event = "active" %}
 <!doctype html>
 <html>
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
-<title>{{ page.title }}</title>
+<title>EVENTS | ABCI</title>
 <link rel="stylesheet" href="../../css/style.css" />
 <link rel="stylesheet" href="../../css/sub.css" />
 <script type='text/javascript' src='../../js/jquery.js'></script>
@@ -56,31 +57,40 @@ gtag('config', 'UA-118371652-1');
 <div id="breadcrumb" class="pc">
 <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="ABCI" href="../../" class="home"><span property="name">HOME</span></a>
 <meta property="position" content="1"></span>
-<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="EVENTS" href="../../en/event/"><span property="name">EVENTS</span></a>
+<span property="itemListElement" typeof="ListItem"><span property="name">EVENTS</span>
 <meta property="position" content="2"></span>
-<span property="itemListElement" typeof="ListItem"><span property="name">ABCI CLOUD SERVICE is open.</span>
-<meta property="position" content="3"></span>
 </div>
 <h1 class="h1">EVENTS</h1>
-
 </div>
 
-<div id="archive_contents" class="wrap">
-<div class="cf">
-<aside id="archive_left">
-{{ page.showdate }}
-</aside>
+<div id="event_contents" class="wrap cf">
+<h2 class="h2">EVENTS ARCHIVE</h2>
+<div id="event">
+<ul class="ns cf">
 
-<div id="archive_container">
-{{ content }}
-</div>
-</div>
+{% assign tmp = "" %}
+{% for post in site.posts %}
+  {% if post.lang == 'en' %} 
+    {% for categories in post.categories %}
+      {% if categories == 'EVENT' %} 
 
+        {% if post.outurl != null and post.outurl != '' %} 
+<li><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+        {% else %}
+<li><a href="../..{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+        {% endif %}
+
+        {% assign tmp = tmp | append: "*" %}
+
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
 
 </div>
 <div class="btn_area">
 <a href="../../" class="btn">TOP</a>
-</div>
 </div>
 
 

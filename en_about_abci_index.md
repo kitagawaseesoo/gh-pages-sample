@@ -73,10 +73,7 @@ permalink: /en/about_abci/
 
 <strong>Supporting the Collaboration and Use of ABCI among Researchers and Engineers at hundreds of Research Institutes, Universities and Industries.</strong>
 </div>
-<div align="right">
-![img1.jpg](../../img/about_abci/img1.jpg)
-</div>
-<!-- <img src="../../img/about_abci/img1.jpg"> -->
 
-![img1.jpg](../../img/about_abci/img1.jpg) { float: right; }
+![img1.jpg](../../img/about_abci/img1.jpg)
+
 

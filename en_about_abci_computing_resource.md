@@ -4,20 +4,16 @@ title: COMPUTING RESOURCES - About ABCI | ABCI
 permalink: /en/about_abci/computing_resource.html
 ---
 
-!(https://kitagawaseesoo.github.io/gh-pages-sample/img/about_abci/img1.jpg)
+
+## COMPUTING RESOURCES
+{: .h2 }
 
 
-<h2 class="h2">COMPUTING RESOURCES</h2>
-
-<div class="lead_text">
-ABCI consists of; 1,088 computing nodes, 10 multi-platform nodes, 22PB large-capacity storage system, high-speed InfiniBand network connecting nodes and storage systems, administrative servers, and network systems.</div>
-
+<div class="lead_text">ABCI consists of; 1,088 computing nodes, 10 multi-platform nodes, 22PB large-capacity storage system, high-speed InfiniBand network connecting nodes and storage systems, administrative servers, and network systems.</div>
 
 <h4 class="h4">&#9633; ABCI System Outline</h4>
 <img src="../../img/about_abci/computing/en_img1.png" /><br />
-
 <br />
-
 
 <h4 class="h4">&#9633; Block Diagram of the Computing Node</h4>
 <br />
@@ -45,21 +41,19 @@ ABCI consists of; 1,088 computing nodes, 10 multi-platform nodes, 22PB large-cap
 <td>Interconnect</td>
 <td>InfiniBand EDR&times;2</td>
 </tr>
-
 </table>
-
 <br />
+![img2.png](../../img/about_abci/computing/img2.png)
 
 
-<img src="../../img/about_abci/computing/img2.png" /><br />
-<h3 class="h3">Features</h3>
+### Features
+{: .h3 }
 
 <h4 class="h4">&#9633; Computing Node</h4>
 <p class="c">
 Each computing node accommodates: two Intel Xeon Gold 6148, four Nvidia Tesla V100 connected by SXM2, 1.6TB SSD connected with NVMe, and 384GiB main memory.<br />
 
 The theoretical performance of the computing node is 506 AI-TFLOPS for half precision (required for AI machine learning) and 34.2 TFLOPS for double precision (required for Engineering science and technology calculations).
-
 </p>
 
 <h4 class="h4">&#9633; High-Speed Interconnect</h4>
@@ -70,4 +64,5 @@ The theoretical performance of the computing node is 506 AI-TFLOPS for half prec
 
 <h4 class="h4">&#9633; Interconnection Network</h4>
 <p class="c">Since ABCI is connected to SINET-5(100Gbps), ABCI users may access ABCI through the internet. The connection is secured by firewalls (FortiGate 1500D) and two-stage authentication is adopted.</p>
+
 

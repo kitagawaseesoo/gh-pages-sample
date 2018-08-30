@@ -30,8 +30,9 @@ permalink: /en/about_abci/
    
     <strong style="color:#000">ABCI Cloud Services started in August 2018.</strong>
 </div>
- <br /><br />
-<img src="../../img/about_abci/map.png" /> <br /><br />
+<br /><br />
+![map.png](../../img/about_abci/map.png)
+<br /><br />
 
 
 ### AI Infrastructure for Everyone

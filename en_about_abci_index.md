@@ -4,7 +4,7 @@ title: About ABCI - About ABCI | ABCI
 permalink: /en/about_abci/
 ---
 
-!({{site.baseurl}}/img/about_abci/img1.jpg)
+!(https://kitagawaseesoo.github.io/gh-pages-sample/img/about_abci/img1.jpg)
 
 
 ## About ABCI

@@ -4,10 +4,10 @@ title: Corporations or Institutions (ABCI AGREEMENT) - APPLICATION PROCEDURE - H
 permalink: /en/how_to_use/custom.html
 ---
 
-<h2 class="h2">Corporations or Institutions (ABCI AGREEMENT)</h2>
-<h3 class="h3">ABCI Application Procedure：ABCI Agreement Template No.1</h3>
+<h2 class="h2">Corporations or Research Institutions (ABCI AGREEMENT)</h2>
+<h3 class="h3">ABCI Application Procedure：ABCI Agreement Attachment No.1</h3>
 <div class="bubble">
-<h4 class="h4">ABCI Application Procedure<sup>*</sup><br />(Template No.1)</h4>
+<h4 class="h4">ABCI Application Procedure<sup>*</sup><br />(Attachment No.1)</h4>
 <div style="text-align:left;">* Application Procedure</div>
 <ul class="number_ul">
 <li class="number">Please download the required ABCI Agreement.<br /><a href="data/yakkan.pdf" target="_blank"><u>Download ABCI Agreement.[PDF 231KB]</u></a></li>
@@ -37,7 +37,7 @@ For the ABCI Usage Application, please access the following URL and follow the i
 <h3 class="h3">ABCI Application Procedure (for individual ABCI Users): ABCI Agreement Attachment No.2</h3>
 
 <div class="bubble">
-<h4 class="h4">ABCI Application Procedure (from individual ABCI Users)(Template No.2)<sup>*</sup></h4>
+<h4 class="h4">ABCI Application Procedure (from individual ABCI Users)(Attachment No.2)<sup>*</sup></h4>
 <a href="https://portal.abci.ai/user/project_regist_app.php" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php</u></a><br />
 <h3><span style="color:#F00">Coming Soon</span></h3>
 </div>

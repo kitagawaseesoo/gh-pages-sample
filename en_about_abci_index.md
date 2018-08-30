@@ -5,9 +5,6 @@ permalink: /en/about_abci/
 ---
 
 
-!(../../img/about_abci/img1.jpg)
-
-
 ## About ABCI
 {: .h2 }
 
@@ -77,5 +74,6 @@ permalink: /en/about_abci/
 <strong>Supporting the Collaboration and Use of ABCI among Researchers and Engineers at hundreds of Research Institutes, Universities and Industries.</strong>
 </div>
 <div align="right">
-<img src="../../img/about_abci/img1.jpg"></div>
+![img1.jpg](../../img/about_abci/img1.jpg)
+</div>
 

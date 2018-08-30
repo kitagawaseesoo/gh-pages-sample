@@ -4,10 +4,13 @@ title: 産総研の研究ユニット（規約） - ご利用申込み方法 - �
 permalink: /ja/how_to_use/member.html
 ---
 
-<h2 class="h2">産総研の研究ユニット（規約）</h2>
+
+## 産総研の研究ユニット（規約）
+{: .h2 }
 
 
-<h3 class="h3">ABCI利用申請：「規約」別紙様式第１</h3>
+### ABCI利用申請：「規約」別紙様式第１
+{: .h3 }
 
 <div class="bubble">
 <h4 class="h4">ABCI利用申請<sup>*</sup><br />（別紙様式第１）</h4>
@@ -49,9 +52,12 @@ permalink: /ja/how_to_use/member.html
 <h4 class="h4">システムから利用者へ、ABCIアカウント名と初期アクセス方法をメール通知<br />（メールの指示に従って操作すれば、ご利用開始いただけます）</h4>
 </div>
 
-
 <br /><br /><br />
-<h3 class="h3">ABCI利用登録内容の変更：「規約」別紙様式第３</h3>
+
+
+### ABCI利用登録内容の変更：「規約」別紙様式第３
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">ABCI利用登録内容の変更届<br />（別紙様式第３）</h4>
   日本語版： <a href="https://portal.abci.ai/user/?lang=ja" target="_blank"><u>https://portal.abci.ai/user/?lang=ja</u></a><br />
@@ -66,3 +72,5 @@ permalink: /ja/how_to_use/member.html
 <div class="bubble">
 <h4 class="h4">変更内容が反映される<br />（利用者ポータルにてご確認ください）</h4>
 </div>
+
+

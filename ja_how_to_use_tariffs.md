@@ -5,9 +5,15 @@ permalink: /ja/how_to_use/tariffs.html
 ---
 
 
-<h2 class="h2">ご利用料金</h2>
+## ご利用料金
+{: .h2 }
+
+
 <div align="right">H30年度</div>
-<h3 class="h3">ABCIサービスメニュー及びABCIポイントに相当する利用料金</h3>
+
+
+### ABCIサービスメニュー及びABCIポイントに相当する利用料金
+{: .h3 }
 
 <div class="cf">
 <ul class="dot_ul">
@@ -116,4 +122,5 @@ permalink: /ja/how_to_use/tariffs.html
 →その他、研究所が無償での利用を認める場合</li>
 </ul>
 </div>
+
 

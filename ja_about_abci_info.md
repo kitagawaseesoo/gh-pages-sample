@@ -4,9 +4,13 @@ title: 運転状況 - ABCIについて | ABCI
 permalink: /ja/about_abci/info.html
 ---
 
-<h2 class="h2">運転状況</h2>
 
-<h3 class="h3">運用スケジュール</h3>
+## 運転状況
+{: .h2 }
+
+
+### 運用スケジュール
+{: .h3 }
 
 <p class="c">ABCI 利用者ポータルとABCI全体の運用に係る今後の停止予定は下記のとおりです。</p>
 <table class="table">
@@ -15,7 +19,6 @@ permalink: /ja/about_abci/info.html
     <th>終了日時</th>
     <th>今後の停止予定</th>
   </tr>
-
   <tr>
     <td>9/21 13:00</td>
     <td>9/26 13:00</td>
@@ -57,8 +60,14 @@ permalink: /ja/about_abci/info.html
   </tr>
 </table>
 <br /><br />
-<h3 class="h3">お知らせ</h3>
+
+
+### お知らせ
+{: .h3 }
+
 <ul class="dot_ul c">
 <li class="dot">2018/7/20 14:00 にABCI利用者ポータルは、利用申請受付を開始しました。</li>
 <li class="dot">2018/8/1  13:00 にABCIはサービス提供を開始しました。</li>
 </ul>  
+
+

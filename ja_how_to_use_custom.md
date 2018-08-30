@@ -4,8 +4,14 @@ title: ABCI利用を希望する法人等（約款） - ご利用申込み方法
 permalink: /ja/how_to_use/custom.html
 ---
 
-<h2 class="h2">ABCI利用を希望する法人等（約款）</h2>
-<h3 class="h3">ABCI利用申請：「約款」別紙様式第１</h3>
+
+## ABCI利用を希望する法人等（約款）
+{: .h2 }
+
+
+### ABCI利用申請：「約款」別紙様式第１
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">ABCI利用申請<sup>*</sup><br />（別紙様式第１）</h4>
 <div style="text-align:left;">* 利用申請方法</div>
@@ -35,7 +41,10 @@ permalink: /ja/how_to_use/custom.html
 <h4 class="h4">システムから利用者へ、ABCIアカウント名と初期アクセス方法をメール通知<br />（メールの指示に従って操作すれば、ご利用開始いただけます）</h4>
 </div>
 <br /><br />
-<h3 class="h3">ABCI利用登録申請（利用者からの申請）：「約款」別紙様式第２</h3>
+
+
+### ABCI利用登録申請（利用者からの申請）：「約款」別紙様式第２
+{: .h3 }
 
 <div class="bubble">
 <h4 class="h4">ABCI利用登録申請（利用者からの申請）（別紙様式第２）<sup>*</sup></h4>
@@ -61,7 +70,11 @@ permalink: /ja/how_to_use/custom.html
 <strong>*重要：利用者の本人確認用証明書として「マイナンバーカード」を使用する際は、「個人番号」の記載された面はコピー・添付しないでください。</strong>
 
 <br /><br /><br />
-<h3 class="h3">ABCI利用登録内容の変更：「約款」別紙様式第３</h3>
+
+
+### ABCI利用登録内容の変更：「約款」別紙様式第３
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">ABCI利用登録内容の変更届<br />（別紙様式第３）</h4>
   日本語版： <a href="https://portal.abci.ai/user/?lang=ja" target="_blank"><u>https://portal.abci.ai/user/?lang=ja</u></a><br />
@@ -77,7 +90,11 @@ permalink: /ja/how_to_use/custom.html
 <h4 class="h4">変更内容が反映される<br />（利用者ポータルにてご確認ください）</h4>
 </div>
 <br /><br />
-<h3 class="h3">ABCI利用料の納付</h3>
+
+
+### ABCI利用料の納付
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">産総研の業務委託先（計算科学）より「利用料納付請求書」を受領</h4>
 </div>
@@ -91,3 +108,5 @@ permalink: /ja/how_to_use/custom.html
 <div class="bubble">
 <h4 class="h4">基本的に領収書は発行されません。<br />領収書が必要な場合は、料金代理収納会社（計算科学）まで、ご依頼ください。<br />株式会社計算科学ABCI担当 </h4><a href="mailto:cskk-abci@cskk.jp" target="_blank"><u>cskk-abci@cskk.jp</u></a>
 </div>
+
+

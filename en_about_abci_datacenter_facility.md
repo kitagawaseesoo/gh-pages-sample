@@ -12,7 +12,7 @@ permalink: /en/about_abci/datacenter_facility.html
 ### Commoditizing supercomputer cooling technologies to Cloud (70kW/rack)
 {: .h3 }
 
-![img2.png](../../img/about_abci/data/en_img1.png)
+![en_img1.png](../../img/about_abci/data/en_img1.png)
 <br /><br />
 <div class="column" style=" max-width:330px; margin:0 10px; margin-bottom:20px">
 <ul class="square_ul">

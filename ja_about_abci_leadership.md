@@ -4,7 +4,9 @@ title: リーダーシップ - ABCIについて | ABCI
 permalink: /ja/about_abci/leadership.html
 ---
 
-<h2 class="h2">リーダーシップ</h2>
+
+## リーダーシップ
+{: .h2 }
 
 <img src="../../img/about_abci/leadership/sekiguchi.jpg">
 <span style="color:#00314F; margin-left:20px; display:inline-block">
@@ -42,4 +44,5 @@ ABCIは、HPC・AI分野でデファクトとなっているハードウェア�
 
 この他、ABCIグランドチャレンジプログラムの実施や、HPCIへの資源提供（来年度以降を予定）を通じて、トップノッチの研究成果の創出など、学術への積極的な貢献も進めていきます。
 </p>
+
 

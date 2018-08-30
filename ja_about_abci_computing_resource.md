@@ -4,18 +4,17 @@ title: 計算資源 - ABCIについて | ABCI
 permalink: /ja/about_abci/computing_resource.html
 ---
 
-<h2 class="h2">計算資源</h2>
 
-<div class="lead_text">
-ABCIは1088台の計算ノード、10台のマルチプラットフォームノード、22PBの大容量ストレージシステム、ノード間およびストレージシステムを接続する高速なInfiniBandネットワーク、それらを管理するサーバ群とネットワーク機器で構成されます。
-</div>
+## 計算資源
+{: .h2 }
 
+
+<div class="lead_text">ABCIは1088台の計算ノード、10台のマルチプラットフォームノード、22PBの大容量ストレージシステム、ノード間およびストレージシステムを接続する高速なInfiniBandネットワーク、それらを管理するサーバ群とネットワーク機器で構成されます。</div>
 
 <h4 class="h4">□ ABCIシステム概要</h4>
-<img src="../../img/about_abci/computing/img1.png" /><br />
-
+![img1.png](../../img/about_abci/computing/img1.png)
 <br />
-
+<br />
 
 <h4 class="h4">□ 計算ノードのブロック図</h4>
 <br />
@@ -43,21 +42,20 @@ ABCIは1088台の計算ノード、10台のマルチプラットフォームノ�
 <td>Interconnect</td>
 <td>InfiniBand EDR×2</td>
 </tr>
-
 </table>
-
+<br />
+![img2.png](../../img/about_abci/computing/img2.png)
 <br />
 
 
-<img src="../../img/about_abci/computing/img2.png" /><br />
-<h3 class="h3">特  長</h3>
+### 特  長
+{: .h3 }
 
 <h4 class="h4">□ 計算ノード</h4>
 <p class="c">
 各計算ノードには2基のIntel Xeon Gold 6148と、SXM2で接続されたNvidia Tesla V100が4基、NVMeで接続された1.6TBのSSD、384GiBメモリが搭載されています。<br />
 
 計算ノードの単体性能は、506 AI-TFLOPSで、人工知能研究の機械学習に必要とされる半精度浮動小数点の演算を1秒間に506兆回行う能力を有します。工学的な科学技術計算で必要とされる倍精度浮動小数点演算おいては、計算ノード単体で34.2 TFLOPSの性能を有します。
-
 </p>
 
 <h4 class="h4">□ 高速なインターコネクト</h4>

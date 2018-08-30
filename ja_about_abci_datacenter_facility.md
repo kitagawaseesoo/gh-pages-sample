@@ -4,10 +4,15 @@ title: データセンター - ABCIについて | ABCI
 permalink: /ja/about_abci/datacenter_facility.html
 ---
 
-<h2 class="h2">データセンター</h2>
 
-<h3 class="h3">1ラック70kW級スパコンのコモディティ化を可能に</h3>
-<img src="../../img/about_abci/data/img1.png"/>
+## データセンター
+{: .h2 }
+
+
+### 1ラック70kW級スパコンのコモディティ化を可能に
+{: .h3 }
+
+![img1.png](../../img/about_abci/data/img1.png)
 <br /><br />
 <div class="column" style=" max-width:330px; margin:0 10px; margin-bottom:20px">
 	<ul class="square_ul">
@@ -34,4 +39,5 @@ permalink: /ja/about_abci/datacenter_facility.html
 </div>
 
 <img src="../../img/about_abci/data/img2.png" style="padding:0 10px" />
+
 

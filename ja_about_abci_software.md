@@ -4,9 +4,14 @@ title: ソフトウェアスタック - ABCIについて | ABCI
 permalink: /ja/about_abci/software.html
 ---
 
-<h2 class="h2">ソフトウェアスタック</h2>
 
-<h3 class="h3">ソフトウェア</h3>
+## ソフトウェアスタック
+{: .h2 }
+
+
+### ソフトウェア
+{: .h3 }
+
 <div class="lead_text">※ABCIでは、HPC分野で定評のある最先端ミドルウェア、各種並列化コンパイラ、最新のGPU向け開発環境やライブラリ、各種ディープラーニングフレームワークを提供します。</div>
 
 <table class="res_table">
@@ -42,7 +47,9 @@ permalink: /ja/about_abci/software.html
 <br /><br />
 
 
-<h3 class="h3">コンテナサポート</h3>
+### コンテナサポート
+{: .h3 }
+
 <h4 class="h4">2つのコンテナエンジンをABCIでサポート</h4>
 <div class="c">
 <ul class="dot_ul">
@@ -69,4 +76,5 @@ permalink: /ja/about_abci/software.html
 
 <div class="c">※コンテナとは軽量な仮想化環境の一種。DockerやSingularityは、コンテナをベースとしてソフトウェアの簡便な配布・インストール・実行・再利用を可能にするミドルウェア。</div>
 <div align="right"><img src="../../img/about_abci/software/img.jpg"/></div>
+
 

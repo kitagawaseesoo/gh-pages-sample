@@ -3,8 +3,14 @@ layout: ja/how_to_use/user_support
 title: ユーザーサポート - ご利用方法 | ABCI
 permalink: /ja/how_to_use/user_support.html
 ---
-<h2 class="h2">ユーザーサポート</h2>
-<h3 class="h3">カスタマーサポート窓口</h3>
+
+
+## ユーザーサポート
+{: .h2 }
+
+
+### カスタマーサポート窓口
+{: .h3 }
 
 <ul class="number_ul">
 
@@ -49,7 +55,10 @@ permalink: /ja/how_to_use/user_support.html
 
 </ul>
 <br />
-<h3 class="h3">ご利用手引き等</h3>
+
+
+### ご利用手引き等
+{: .h3 }
 
 <h4 class="h4">ABCI利用申請の手引き</h4>
 
@@ -73,3 +82,5 @@ permalink: /ja/how_to_use/user_support.html
 <li class="dot">日本語版： <a href="https://portal.abci.ai/docs/ja/" target="_blank"><u>https://portal.abci.ai/docs/ja/</u></a></li>
 <li class="dot">英語版： <a href="https://portal.abci.ai/docs/en/" target="_blank"><u>https://portal.abci.ai/docs/en/</u></a></li>
 </ul>
+
+

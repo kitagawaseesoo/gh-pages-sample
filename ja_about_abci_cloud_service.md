@@ -4,11 +4,15 @@ title: クラウドサービス - ABCIについて | ABCI
 permalink: /ja/about_abci/cloud_service.html
 ---
 
-<h2 class="h2">クラウドサービス</h2>
 
-<h3 class="h3">資源タイプ</h3>
+## クラウドサービス
+{: .h2 }
+
+
+### 資源タイプ
+{: .h3 }
+
 <div class="lead_text">＊ABCIでは、ユーザのリソース要求に応じて5つの資源タイプからマッチするものを選択できます。</div>
-
 
 <table class="table">
 <tr>
@@ -17,7 +21,6 @@ permalink: /ja/about_abci/cloud_service.html
 <th>GPU数<br />割当量 / 総量</th>
 <th>メモリ（GB）<br />割当量 / 総量</th>
 <th>ローカルストレージ（TB）<br />割当量 / 総量</th>
-
 </tr>
 
 <tr align="center">
@@ -63,7 +66,10 @@ permalink: /ja/about_abci/cloud_service.html
 </table>
 <br /><br /><br />
 
-<h3 class="h3">提供サービス</h3>
+
+### 提供サービス
+{: .h3 }
+
 <div class="lead_text">＊ABCIでは、処理スループットの最大化を可能とするバッチ型・対話型の実行サービスに加え、自由度の高い予約サービス、IDE、各種ストレージサービスを提供します。</div>
 
 <table class="table">
@@ -71,44 +77,37 @@ permalink: /ja/about_abci/cloud_service.html
 <th>サービス名</th>
 <th>説　明</th>
 <th>割当ノード数<br />（最小/最大）</th>
-
 </tr>
-
 <tr>
 	<th>Spot</th>
 	<td>バッチ実行型ジョブサービス</td>
 	<td align="center">1 / 512</td>
 </tr>
-
 <tr>
 	<th>On-demand</th>
 	<td>インタラクティブ実行型ジョブサービス</td>
 	<td align="center">1 / 32</td>
 </tr>
-
 <tr>
 	<th>Reserved</th>
 	<td>日単位での資源予約サービス</td>
 	<td align="center">1 / 32</td>
 </tr>
-
 <tr>
 	<th>IDE (開発中)</th>
 	<td>WebUIベースの統合開発環境</td>
 	<td align="center">未定</td>
 </tr>
-
 <tr>
 	<th>Group Storage</th>
 	<td>グループ内で共有できるストレージサービス</td>
 	<td align="center">N / A</td>
 </tr>
-
 <tr>
 	<th>Secure Object Storage<br />（開発中）</th>
 	<td>暗号化に対応したオブジェクトストレージサービス</td>
 	<td align="center">N / A</td>
 </tr>
-
 </table>
+
 

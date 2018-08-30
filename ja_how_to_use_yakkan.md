@@ -4,7 +4,9 @@ title: 約款 - FAQ - ご利用方法 | ABCI
 permalink: /ja/how_to_use/yakkan.html
 ---
 
-<h2 class="h2">約款に関するFAQ</h2>
+
+## 約款に関するFAQ
+{: .h2 }
 
 <dl class="faq">
 <dt class="q">同一法人で、複数の利用申請を行うことはできますか？</dt>
@@ -175,3 +177,5 @@ permalink: /ja/how_to_use/yakkan.html
 <div align="right"><span class="a_title">分類</span>7.対外発表<span class="a_title">通し番号</span>7-1</div>
 </dd>
 </dl>
+
+

@@ -5,12 +5,14 @@ permalink: /en/about_abci/
 ---
 
 
-## aaa {: .h2 }
+## About ABCI
+{: .h2 }
 
-<h2 class="h2">About ABCI</h2>
 <div class="lead_text">AI Bridging Cloud Infrastructure (ABCI) is the world's first large-scale Open AI Computing Infrastructure, constructed and operated by National Institute of Advanced Industrial Science and Technology (AIST).</div>
 
-<h3 class="h3">World's Largest, Super Energy Saving, Open AI Infrastructure</h3>
+### World's Largest, Super Energy Saving, Open AI Infrastructure
+{: .h3 }
+
 <div class="c">
 <ul class="dot_ul">
     <li class="dot">World-class Computing and Data Processing Power.</li>
@@ -29,22 +31,33 @@ permalink: /en/about_abci/
 </div>
  <br /><br />
 <img src="../../img/about_abci/map.png" /> <br /><br />
-<h3 class="h3">AI Infrastructure for Everyone</h3>
+
+### AI Infrastructure for Everyone
+{: .h3 }
+
 <div class="c">
-<h4 class="h4">Ultra High-Density Data Center Designed from Scratch</h4>
+
+#### Ultra High-Density Data Center Designed from Scratch
+{: .h4 }
+
 <ul class="dot_ul">
     <li class="dot">A Low-Cost, Light Weight "Warehouse" with a Double-Structured Design including internal scaffolding for racks and cooling pods</li>
     <li class="dot">Achieves 20 times the thermal density of ordinary data centers</li>
 </ul>
 <br />
 
-<h4 class="h4">Super Energy Saving</h4>
+#### Super Energy Saving
+{: .h4 }
+
 <ul class="dot_ul">
     <li class="dot">Uses Commercially-Available Cooling System</li>
     <li class="dot">Achieves Cooling Capacity of 70kW per Rack by using hot water and air cooling</li>
 </ul>
 <br />
-<h4 class="h4">Adoption of De-Facto Hardware and Software Architecture</h4>
+
+#### Adoption of De-Facto Hardware and Software Architecture
+{: .h4 }
+
 <ul class="dot_ul">
     <li class="dot">Uses Commodities Hardware and Accelerators for AI</li>
     <li class="dot">Utilizes State-of-the-Art HPC/AI Software to enable Rapid Technology Transfer</li>

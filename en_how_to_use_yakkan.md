@@ -171,7 +171,8 @@ permalink: /en/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">According to Article No. 21 of ABCI Agreement; "ABCI User Representative must notify AIST in advance when a user publicizes research results produced while using ABCI at a conference presentation, a conference announcement, or in a press release." How much information should I provide to AIST?</dt>
-<dd class="a">For conferences, please provide the name of the academic society, conference name, presentation summary/abstract and date.  For a press release, please provide the date of release, summary of the press release, and any web links to the press release. The information may be submitted to ABCI Application Reception:abci-application-ml@aist.go.jp
+<dd class="a">For conferences, please provide the name of the academic society, conference name, presentation summary/abstract and date.  For a press release, please provide the date of release, summary of the press release, and any web links to the press release. The information may be submitted to ABCI Application Reception:<a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a>
+
 
 
 <div align="right"><span class="a_title">Category</span>7.Application<span class="a_title">Number</span>7-1</div>

@@ -47,7 +47,7 @@ permalink: /en/how_to_use/member.html
 </div>
 
 
-<br /><br />
+<br /><br /><br />
 
 
 <h3 class="h3">Changes to the registered ABCI User/Group Information: ABCI Rules Attachment No.3</h3>

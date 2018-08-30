@@ -76,5 +76,5 @@ permalink: /en/about_abci/
 <div align="right">
 <img src="../../img/about_abci/img1.jpg"></div>
 
-!(../../img/about_abci/img1.jpg)
+!({{site.baseurl}}/img/about_abci/img1.jpg)
 

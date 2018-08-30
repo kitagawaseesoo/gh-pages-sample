@@ -5,7 +5,8 @@ permalink: /en/how_to_use/yakkan.html
 ---
 
 
-<h2 class="h2">FAQ Regarding ABCI Terms and Agreement</h2>
+## FAQ Regarding ABCI Terms and Agreement
+{: .h2 }
 
 <dl class="faq">
 <dt class="q">Is it possible for the same organization (including corporations, universities, institutes, etc.) to apply for multiple applications?</dt>
@@ -174,7 +175,8 @@ permalink: /en/how_to_use/yakkan.html
 <dd class="a">For conferences, please provide the name of the academic society, conference name, presentation summary/abstract and date.  For a press release, please provide the date of release, summary of the press release, and any web links to the press release. The information may be submitted to ABCI Application Reception:<a href="mailto:abci-application-ml@aist.go.jp" target="_blank"><u>abci-application-ml@aist.go.jp</u></a>
 
 
-
 <div align="right"><span class="a_title">Category</span>7.Application<span class="a_title">Number</span>7-1</div>
 </dd>
 </dl>
+
+

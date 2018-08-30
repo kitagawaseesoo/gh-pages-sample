@@ -5,8 +5,12 @@ permalink: /en/how_to_use/user_support.html
 ---
 
 
-<h2 class="h2">Customer Support</h2>
-<h3 class="h3">Customer Support Contacts</h3>
+## Customer Support
+{: .h2 }
+
+
+### Customer Support Contacts
+{: .h3 }
 
 <ul class="number_ul">
 
@@ -48,10 +52,12 @@ permalink: /en/how_to_use/user_support.html
 		</ul>
 	</li>
 
-
 </ul>
 <br />
-<h3 class="h3">ABCI User Guides</h3>
+
+
+### ABCI User Guides
+{: .h3 }
 
 <h4 class="h4">ABCI Application Procedure Guide</h4>
 
@@ -72,3 +78,5 @@ permalink: /en/how_to_use/user_support.html
 <ul class="dot_ul">
 <li class="dot"><a href="https://portal.abci.ai/docs/en/" target="_blank"><u>https://portal.abci.ai/docs/en/</u></a></li>
 </ul>
+
+

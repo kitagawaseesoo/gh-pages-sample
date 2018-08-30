@@ -4,8 +4,14 @@ title: Corporations or Institutions (ABCI AGREEMENT) - APPLICATION PROCEDURE - H
 permalink: /en/how_to_use/custom.html
 ---
 
-<h2 class="h2">Corporations or Research Institutions (ABCI AGREEMENT)</h2>
-<h3 class="h3">ABCI Application Procedure：ABCI Agreement Attachment No.1</h3>
+
+## Corporations or Research Institutions (ABCI AGREEMENT)
+{: .h2 }
+
+
+### ABCI Application Procedure：ABCI Agreement Attachment No.1
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">ABCI Application Procedure<sup>*</sup><br />(Attachment No.1)</h4>
 <div style="text-align:left;">* Application Procedure</div>
@@ -34,7 +40,10 @@ For the ABCI Usage Application, please access the following URL and follow the i
 <h4 class="h4">An email with the ABCI Account name and initial access procedures and URL will be sent to the individual ABCI users.<br />(Please follow the instructions and ABCI users will be able to use ABCI immediately.)</h4>
 </div>
 <br /><br />
-<h3 class="h3">ABCI Application Procedure (for individual ABCI Users): ABCI Agreement Attachment No.2</h3>
+
+
+### ABCI Application Procedure (for individual ABCI Users): ABCI Agreement Attachment No.2
+{: .h3 }
 
 <div class="bubble">
 <h4 class="h4">ABCI Application Procedure (from individual ABCI Users)(Attachment No.2)<sup>*</sup></h4>
@@ -56,10 +65,12 @@ For the ABCI Usage Application, please access the following URL and follow the i
 <h4 class="h4">Please follow the instructions and ABCI users will be able to use ABCI immediately.</h4>
 
 </div><br />
-
-
 <br />
-<h3 class="h3">Changes to the registered ABCI User/Group Information: ABCI Agreement Attachment No.3</h3>
+
+
+### Changes to the registered ABCI User/Group Information: ABCI Agreement Attachment No.3
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">Request to change the registered ABCI User/Group Information<br />(ABCI Agreement Attachment No.3)
 </h4>
@@ -76,7 +87,11 @@ For the ABCI Usage Application, please access the following URL and follow the i
 </h4>
 </div>
 <br /><br />
-<h3 class="h3">Payment to ABCI Fees</h3>
+
+
+### Payment to ABCI Fees
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">Usage Fee Payment Request Form will be sent to the ABCI User Representative by post from Keisan-Kagaku Inc., an authorized payment agency for AIST's ABCI.</h4>
 </div>
@@ -90,3 +105,5 @@ For the ABCI Usage Application, please access the following URL and follow the i
 <div class="bubble">
 <h4 class="h4">A receipt is not issued unless requested.<br />If a receipt is needed, please request one from Keisan-Kagaku Inc., an authorized payment agency for AIST's ABCI.<br />ABCI Desk at Keisan-Kagaku Inc.</h4><a href="mailto:cskk-abci@cskk.jp" target="_blank"><u>cskk-abci@cskk.jp</u></a>
 </div>
+
+

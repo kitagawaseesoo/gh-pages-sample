@@ -5,7 +5,9 @@ permalink: /en/privacy_policy/index.html
 ---
 
 
-<h2 class="h2">PRIVACY POLICY</h2>
+## PRIVACY POLICY
+{: .h2 }
+
 <div align="right">最終更新日:2018年7月31日</div><br />
 <h3 class="h3">当サイト( https://abci.ai/ )は、下記の産総研Privacy Policyに従います。</h3>
 

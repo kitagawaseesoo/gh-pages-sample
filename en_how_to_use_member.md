@@ -5,10 +5,12 @@ permalink: /en/how_to_use/member.html
 ---
 
 
-<h2 class="h2">AIST Research Units/Teams (ABCI RULES)</h2>
+## AIST Research Units/Teams (ABCI RULES)
+{: .h2 }
 
 
-<h3 class="h3">ABCI Application Procedure: ABCI Rules Attachment No.1</h3>
+### ABCI Application Procedure: ABCI Rules Attachment No.1
+{: .h3 }
 
 <div class="bubble">
 <h4 class="h4">ABCI Application Procedure: ABCI Rules Attachment No.1<sup>*</sup><br />(Attachment No.1)</h4>
@@ -24,7 +26,7 @@ permalink: /en/how_to_use/member.html
 <a href="https://portal.abci.ai/user/project_regist_app.php?lang=en" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php?lang=en</u></a><br />
 </li>
 </ul>
-</div>     
+</div>
 
 <div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
 <div class="bubble">
@@ -46,11 +48,12 @@ permalink: /en/how_to_use/member.html
 <h4 class="h4">An email with the ABCI Account name and initial access procedures and URL will be sent to the individual ABCI users.<br />(Please follow the instructions and ABCI users will be able to use ABCI immediately.)</h4>
 </div>
 
-
 <br /><br /><br />
 
 
-<h3 class="h3">Changes to the registered ABCI User/Group Information: ABCI Rules Attachment No.3</h3>
+### Changes to the registered ABCI User/Group Information: ABCI Rules Attachment No.3
+{: .h3 }
+
 <div class="bubble">
 <h4 class="h4">Request to change the registered ABCI User/Group Information<br />(ABCI Rules Attachment No.3)</h4>
 <a href="https://portal.abci.ai/user/?lang=en" target="_blank"><u>https://portal.abci.ai/user/?lang=en</u></a>
@@ -65,4 +68,5 @@ permalink: /en/how_to_use/member.html
 <h4 class="h4">Modifications will be registered in ABCI User Portal.<br />(Please check the ABCI User Portal.)
 </h4>
 </div>
+
 

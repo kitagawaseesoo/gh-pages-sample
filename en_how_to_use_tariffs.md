@@ -5,10 +5,14 @@ permalink: /en/how_to_use/tariffs.html
 ---
 
 
+## ABCI USAGE FEES
+{: .h2 }
 
-<h2 class="h2">ABCI USAGE FEES</h2>
 <div align="right">FY H30 (FY ends March 31, 2019)</div>
-<h3 class="h3">ABCI Service Menu and Usage Fees for ABCI Points</h3>
+
+
+### ABCI Service Menu and Usage Fees for ABCI Points
+{: .h3 }
 
 <div class="cf">
 <ul class="dot_ul">
@@ -117,3 +121,5 @@ permalink: /en/how_to_use/tariffs.html
 ->Other exceptional cases when AIST decides to waive the usage fees.</li>
 </ul>
 </div>
+
+

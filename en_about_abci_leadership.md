@@ -13,8 +13,8 @@ National Institute of Advanced Industrial Science and Technology (AIST)<br />
 Vice President and Deputy Director General, Department of Information Technology and Human Factors<br />
 <span style="font-size:22px">Satoshi Sekiguchi</span>
 </span>
-	<p><br  />
-	It is my great honor to announce that AI Bridging Cloud Infrastructure (ABCI), the world's first large-scale Open AI Computing Infrastructure, is now fully operational and ready for researchers and businesses to use for innovative AI research and development. With the progression of the third wave of AI, it is now possible to feed computers large amounts of data as inputs for deep learning to predict complicated events in the real world with high accuracy close to humans. This achievement allows AI to relieve humans from repetitive intellectual tasks just as robots have freed humans from simple manual tasks. Additionally, it is highly expected that AI will expand its applications beyond our imagination, through the combination of large-scale data generation by computer simulations and deep learning.
+<p><br  />
+It is my great honor to announce that AI Bridging Cloud Infrastructure (ABCI), the world's first large-scale Open AI Computing Infrastructure, is now fully operational and ready for researchers and businesses to use for innovative AI research and development. With the progression of the third wave of AI, it is now possible to feed computers large amounts of data as inputs for deep learning to predict complicated events in the real world with high accuracy close to humans. This achievement allows AI to relieve humans from repetitive intellectual tasks just as robots have freed humans from simple manual tasks. Additionally, it is highly expected that AI will expand its applications beyond our imagination, through the combination of large-scale data generation by computer simulations and deep learning.
 
 <br  /><br  />
 
@@ -23,7 +23,7 @@ The goals of ABCI is to (1) develop AI technologies that will help scale compone
 <br  /><br  />
 
 The day when artificial intelligence technology is used as "commonplace" has arrived. I encourage everyone to collaborate with AIST and use ABCI to accelerate open innovation and address real world challenges. 
-	</p>
+</p>
 
 <br /><br />
 <hr>

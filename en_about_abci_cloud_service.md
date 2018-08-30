@@ -5,11 +5,14 @@ permalink: /en/about_abci/cloud_service.html
 ---
 
 
-<h2 class="h2">CLOUD SERVICES</h2>
+## CLOUD SERVICES
+{: .h2 }
 
-<h3 class="h3">Resource Types</h3>
+
+### Resource Types
+{: .h3 }
+
 <div class="lead_text">＊ABCI users may select from 5 types of resources.</div>
-
 
 <table class="table">
 <tr>
@@ -63,7 +66,10 @@ permalink: /en/about_abci/cloud_service.html
 </table>
 <br /><br /><br />
 
-<h3 class="h3">Service Type</h3>
+
+### Service Type
+{: .h3 }
+
 <div class="lead_text">ABCI provides batch-type and interactive execution services that maximize processing throughput, in addition to high-flexibility reservation service, IDE, and various storage service options.</div>
 
 <table class="table">
@@ -71,44 +77,37 @@ permalink: /en/about_abci/cloud_service.html
 <th>Service Type</th>
 <th>Description</th>
 <th>Assigned Nodes<br  />(Min / Max)</th>
-
 </tr>
-
 <tr>
 	<th>Spot</th>
 	<td>Batch Execution Job Service</td>
 	<td align="center">1 / 512</td>
 </tr>
-
 <tr>
 	<th>On-demand</th>
 	<td>Interactive Executable Job Service</td>
 	<td align="center">1 / 32</td>
 </tr>
-
 <tr>
 	<th>Reserved</th>
 	<td>Daily Resource Reservation Service</td>
 	<td align="center">1 / 32</td>
 </tr>
-
 <tr>
 	<th>IDE (Under Development)</th>
 	<td>Web UI-based IDE</td>
 	<td align="center">Undecided</td>
 </tr>
-
 <tr>
 	<th>Group Storage</th>
 	<td>Storage Services shared within a user group</td>
 	<td align="center">N / A</td>
 </tr>
-
 <tr>
 	<th>Secure Object Storage<br />(Under Development)</th>
 	<td>Encrypted Object Storage</td>
 	<td align="center">N / A</td>
 </tr>
-
 </table>
+
 

@@ -12,7 +12,8 @@ permalink: /en/about_abci/computing_resource.html
 <div class="lead_text">ABCI consists of; 1,088 computing nodes, 10 multi-platform nodes, 22PB large-capacity storage system, high-speed InfiniBand network connecting nodes and storage systems, administrative servers, and network systems.</div>
 
 <h4 class="h4">&#9633; ABCI System Outline</h4>
-<img src="../../img/about_abci/computing/en_img1.png" /><br />
+![en_img1.png](../../img/about_abci/computing/en_img1.png)
+<br />
 <br />
 
 <h4 class="h4">&#9633; Block Diagram of the Computing Node</h4>

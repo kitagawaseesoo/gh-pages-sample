@@ -4,7 +4,7 @@ title: About ABCI - About ABCI | ABCI
 permalink: /en/about_abci/
 ---
 
-# About ABCI
+## About ABCI
 <h2 class="h2">About ABCI</h2>
 <div class="lead_text">AI Bridging Cloud Infrastructure (ABCI) is the world's first large-scale Open AI Computing Infrastructure, constructed and operated by National Institute of Advanced Industrial Science and Technology (AIST).</div>
 

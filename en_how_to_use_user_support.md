@@ -37,7 +37,7 @@ permalink: /en/how_to_use/user_support.html
 	</li>
 
 	<li class="number">
-	<strong style="color:#00314F;">When sending an email to<a href="mailto:qa@abci.ai" target="_blank"><u>qa@abci.ai</u></a>please include the following information:</strong><br />
+	<strong style="color:#00314F;">When sending an email to <a href="mailto:qa@abci.ai" target="_blank"><u>qa@abci.ai</u></a> please include the following information:</strong><br />
 		<ul class="dot_ul">
 			<li class="dot">Full Name:</li>
 			<li class="dot">ABCI Account Name:</li>

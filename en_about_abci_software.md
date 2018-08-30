@@ -5,9 +5,12 @@ permalink: /en/about_abci/software.html
 ---
 
 
-<h2 class="h2">SOFTWARE STACK</h2>
+## SOFTWARE STACK
+{: .h2 }
 
-<h3 class="h3">Software</h3>
+
+### Software
+{: .h3 }
 
 <table class="res_table">
 <tr>
@@ -42,7 +45,8 @@ permalink: /en/about_abci/software.html
 <br /><br />
 
 
-<h3 class="h3">Container support</h3>
+### Container support
+{: .h3 }
 
 <h4 class="h4">ABCI Supports two container technologies</h4>
 <div class="c">
@@ -69,4 +73,5 @@ permalink: /en/about_abci/software.html
 </div>
 
 <div align="right"><img src="../../img/about_abci/software/img.jpg"/></div>
+
 

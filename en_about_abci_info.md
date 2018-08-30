@@ -4,9 +4,14 @@ title: OPERATION STATUS - About ABCI | ABCI
 permalink: /en/about_abci/info.html
 ---
 
-<h2 class="h2">OPERATION STATUS</h2>
 
-<h3 class="h3">Operation Schedule</h3>
+## OPERATION STATUS
+{: .h2 }
+
+
+### Operation Schedule
+{: .h3 }
+
 <p class="c">ABCI and/or ABCI User Portal is not available during the following hours:</p>
 <table class="table">
   <tr>
@@ -36,6 +41,12 @@ permalink: /en/about_abci/info.html
   </tr>
 </table>
 <br /><br />
-<h3 class="h3">Notice</h3>
+
+
+### Notice
+{: .h3 }
+
 2018/07/20 14:00 ABCI User Portal starts operation.<br />
 2018/08/01 13:00 ABCI Cloud services starts.<br />
+
+

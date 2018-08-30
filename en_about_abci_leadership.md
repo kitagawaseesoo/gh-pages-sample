@@ -5,7 +5,8 @@ permalink: /en/about_abci/leadership.html
 ---
 
 
-<h2 class="h2">LEADERSHIP</h2>
+## LEADERSHIP
+{: .h2 }
 
 <img src="../../img/about_abci/leadership/sekiguchi.jpg" style="margin-bottom:20px">
 <span style="color:#00314F; margin-left:20px; display:inline-block; max-width:300px">
@@ -46,5 +47,7 @@ ABCI adopts de facto hardware and software for HPC and AI allowing ABCI users to
 
 ABCI also provides large-capacity and high-speed shared storage systems for collecting, storing, and using big data acquired from the real world as well as training models and training data. By this winter, we will introduce encrypted data infrastructures that will comply with laws and international security standards, to promote the security of data stored and processed on ABCI. We will continue to enhance ABCI to improve its environment for securely managing data from storage, sharing capabilities, accessing learning models, etc. <br /><br />
 
-Lastly, we will proactively contribute to academic activities by creating opportunities such as the ABCI Grand Challenge Program, provide computing resources to HPCI, and create top notch research results.</p>
+Lastly, we will proactively contribute to academic activities by creating opportunities such as the ABCI Grand Challenge Program, provide computing resources to HPCI, and create top notch research results.
+</p>
+
 

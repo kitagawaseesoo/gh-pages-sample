@@ -8,6 +8,6 @@ permalink: /en/how_to_use/index.html
 <br />
 
 <div class="cf">
-<a href="./custom.html" class="box_menu2">orporations or Institutions<br /> (ABCI AGREEMENT)</a>
-<a href="./member.html" class="box_menu2">AIST Research Units/Teams (ABCI RULES)<br /> (ABCI RULES)</a>
+<a href="./custom.html" class="box_menu2">Corporations<br />or<br />Research Institutions<br />(ABCI Agreement)</a>
+<a href="./member.html" class="box_menu2">AIST<br />Research Units<br />(ABCI Rules)</a>
 </div>

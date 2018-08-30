@@ -44,19 +44,29 @@ permalink: /en/about_abci/software.html
 
 <h3 class="h3">Container support</h3>
 
-
-<h4 class="h4">Containers enable users to instantly try state-of-the-art software developed in AI community</h4>
-<br />
-<h4 class="h4">ABCI supports two container technologies</h4>
+<h4 class="h4">ABCI Supports two container technologies</h4>
 <div class="c">
 <ul class="dot_ul">
-<li class="dot">Docker, having a large user community</li>
-<li class="dot">Singularity, recently accepted by HPC community</li>
+<li class="dot">Docker: having a large user community.</li>
+<li class="dot">Singularity: developed by Laurence Berkeley National Laboratory and recently accepted by HPC community.</li>
 </ul>
 </div>
 
-<h4 class="h4">ABCI provides various single-node/distributed deep learning framework container images optimized to achieve high performance on ABCI</h4>
-<br />
+<h4 class="h4">Container-Based Software Ecosystem</h4>
+<div class="c">
+<ul class="dot_ul">
+<li class="dot">Enables users to instantly try state-of-the-art software developed in the global communities.</li>
+<li class="dot">Publicize Software developed on ABCI to the global communities.</li>
+</ul>
+</div>
+
+<h4 class="h4">AIST provides container images optimized on ABCI.</h4>
+<div class="c">
+<ul class="dot_ul">
+<li class="dot">Development: various single-node to distributed deep learning framework container images optimized with ChainerMN and NNabla, etc.</li>
+<li class="dot">Provisioning: container images developed on ABCI may be deployed at large scale deep learning systems.</li>
+</ul>
+</div>
 
 <div align="right"><img src="../../img/about_abci/software/img.jpg"/></div>
 

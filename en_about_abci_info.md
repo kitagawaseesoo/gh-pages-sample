@@ -15,19 +15,9 @@ permalink: /en/about_abci/info.html
     <th>Affected Systems</th>
   </tr>
   <tr>
-    <td>7/27 14:00 </td>
-    <td>8/1 10:00</td>
-    <td>ABCI and ABCI User Portal is not available due to planned system maintenance.</td>
-  </tr>
-  <tr>
-    <td>End of September (Date and Time to be determined)</td>
-    <td>&nbsp;</td>
-    <td>ABCI and ABCI User Portal is not available due to planned Electric Power maintenance.</td>
-  </tr>
-  <tr>
-    <td>Mid of October (Date and Time to be determined)</td>
-    <td>&nbsp;</td>
-    <td>ABCI and ABCI User Portal is not available due to planned Electric Power maintenance.</td>
+    <td>9/21 13:00 </td>
+    <td>9/26 13:00 </td>
+    <td>ABCI and ABCI User Portal are not available due to planned Electric Power maintenance(date/time may change)</td>
   </tr>
   <tr>
     <td>End of October Date and (Time to be determined)</td>
@@ -37,7 +27,7 @@ permalink: /en/about_abci/info.html
   <tr>
     <td>Mid of December (Date and Time to be determined)</td>
     <td>&nbsp;</td>
-    <td>ABCI and ABCI User Portal is not available due to planned Electric Power maintenance.</td>
+    <td>ABCI and ABCI User Portal are not available due to planned Electric Power maintenance.</td>
   </tr>
   <tr>
     <td>End of January (Date and Time to be determined)</td>
@@ -47,3 +37,5 @@ permalink: /en/about_abci/info.html
 </table>
 <br /><br />
 <h3 class="h3">Notice</h3>
+2018/07/20 14:00 ABCI User Portal starts operation.<br />
+2018/08/01 13:00 ABCI Cloud services starts.<br />

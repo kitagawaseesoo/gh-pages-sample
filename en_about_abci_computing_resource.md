@@ -4,6 +4,9 @@ title: COMPUTING RESOURCES - About ABCI | ABCI
 permalink: /en/about_abci/computing_resource.html
 ---
 
+!(https://kitagawaseesoo.github.io/gh-pages-sample/img/about_abci/img1.jpg)
+
+
 <h2 class="h2">COMPUTING RESOURCES</h2>
 
 <div class="lead_text">

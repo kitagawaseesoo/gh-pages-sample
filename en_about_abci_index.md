@@ -6,6 +6,8 @@ permalink: /en/about_abci/
 
 !(https://kitagawaseesoo.github.io/gh-pages-sample/img/about_abci/img1.jpg)
 
+![useful image]({{ site.url }}/assets/image.png)
+
 
 ## About ABCI
 {: .h2 }

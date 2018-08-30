@@ -31,7 +31,7 @@ The day when artificial intelligence technology is used as "commonplace" has arr
 
 <img src="../../img/about_abci/leadership/ogawa.jpg" style="margin-bottom:20px">
 <span style="color:#00314F; margin-left:20px; display:inline-block; max-width:300px">
-National Institute of Advanced Industrial Science and Technology (AIST)
+National Institute of Advanced Industrial Science and Technology (AIST)<br />
 Artificial Intelligence Research Center
 <br />
 Team Leader, Artificial Intelligence Cloud Research Team<br />

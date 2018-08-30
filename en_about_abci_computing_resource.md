@@ -53,7 +53,7 @@ ABCI consists of; 1,088 computing nodes, 10 multi-platform nodes, 22PB large-cap
 
 <h4 class="h4">&#9633; Computing Node</h4>
 <p class="c">
-Each computing node accommodates: two Intel Xeon Gold 6148, four Nvidia Tesla V100 connected by SXM2, 1.6TB SSD connected with NVMe, and 394GiB main memory.<br />
+Each computing node accommodates: two Intel Xeon Gold 6148, four Nvidia Tesla V100 connected by SXM2, 1.6TB SSD connected with NVMe, and 384GiB main memory.<br />
 
 The theoretical performance of the computing node is 506 AI-TFLOPS for half precision (required for AI machine learning) and 34.2 TFLOPS for double precision (required for Engineering science and technology calculations).
 

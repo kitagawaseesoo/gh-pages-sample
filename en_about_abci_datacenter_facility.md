@@ -26,7 +26,7 @@ permalink: /en/about_abci/datacenter_facility.html
 </li>
 <li class="square">Cooling capacity:
 <ul class="dot_ul">
-<li class="dot">3.2 MW</li>
+<li class="dot">3.2 MW(Peak Summer Time)</li>
 <li class="dot">70kW/rack: 60kW water＋10kW air</li>
 </ul>
 </li>

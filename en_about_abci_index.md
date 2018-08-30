@@ -5,7 +5,7 @@ permalink: /en/about_abci/
 ---
 
 
-![aaa](../../img/about_abci/img1.jpg)
+!(../../img/about_abci/img1.jpg)
 
 
 ## About ABCI

@@ -5,7 +5,7 @@ permalink: /en/about_abci/
 ---
 
 
-## aaa
+## aaa {:.h2}
 
 
 <h2 class="h2">About ABCI</h2>

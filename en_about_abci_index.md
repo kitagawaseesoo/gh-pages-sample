@@ -4,6 +4,8 @@ title: About ABCI - About ABCI | ABCI
 permalink: /en/about_abci/
 ---
 
+!({{site.baseurl}}/img/about_abci/img1.jpg)
+
 
 ## About ABCI
 {: .h2 }
@@ -75,6 +77,4 @@ permalink: /en/about_abci/
 </div>
 <div align="right">
 <img src="../../img/about_abci/img1.jpg"></div>
-
-!({{site.baseurl}}/img/about_abci/img1.jpg)
 

@@ -7,10 +7,16 @@ lang: ja
 categories: EVENT
 img: event3.png
 ---
-<h2 class="ah2">ABCI運用開始</h2>
+
+
+## ABCI運用開始
+{: .ah2 }
+
 
 <div>８月１日の運用開始（予定）に先立って、ABCI利用申請は、7/19（予定）よりWebで受付を開始いたします。<br />
 ABCIのサービス利用開始は、2018/8/1 13:00の予定です。
 
 </div>
 <br />
+
+

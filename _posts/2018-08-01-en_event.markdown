@@ -7,7 +7,13 @@ lang: en
 categories: EVENT
 img: event3.png
 ---
-<h2 class="ah2">ABCI CLOUD SERVICE is open.</h2>
+
+
+## ABCI CLOUD SERVICE is open.
+{: .ah2 }
+
 
 <div>ABCI Cloud service is open on 2018/8/1 13:00.</div>
 <br />
+
+

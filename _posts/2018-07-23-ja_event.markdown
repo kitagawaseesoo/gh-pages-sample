@@ -7,10 +7,18 @@ lang: ja
 categories: EVENT
 img: event2.png
 ---
-<h2 class="ah2">ABCIグランドチャレンジ2018（第１回）</h2>
+
+
+## ABCIグランドチャレンジ2018（第１回）
+{: .ah2 }
+
 <div class="lead_text">国立研究開発法人 産業技術総合研究所（以下、産総研）は、莫大な演算能力によりはじめて可能になる人工知能分野の最重要課題への挑戦を支援するため、AI橋渡しクラウド（ABCI）で「ABCIグランドチャレンジ」プログラムを実施します。ABCIグランドチャレンジは、ABCIがもつ最大計算ノード数である1,088ノード（4,352GPU）を最大24時間、1研究グループでの占有利用ができる公募型チャレンジプログラムです。世界最大規模の人工知能処理向け計算インフラストラクチャであるABCIを用いて画期的な成果の達成が見込まれる、挑戦的な研究課題のご提案をお待ちしております。</div>
 <br />
-<h3 class="ah3">提供資源の詳細</h3>
+
+
+### 提供資源の詳細
+{: .ah3 }
+
 <ul class="dot_ul">
 <li class="dot">AI橋渡しクラウド（ABCI）</li>
 <li class="dot">1,088ノード（4,352GPU）を最大24時間占有利用できます。</li>
@@ -18,7 +26,10 @@ img: event2.png
 
 <br />
 
-<h3 class="ah3">ABCIグランドチャレンジ実施概要（2018年度）</h3>
+
+### ABCIグランドチャレンジ実施概要（2018年度）
+{: .ah3 }
+
 <p class="c">2018年度は以下の通り3回プログラムを実施します。</p>
 
 <table class="table">
@@ -61,7 +72,9 @@ img: event2.png
 
 <br />
 
-<h3 class="ah3">課題および申請者の要件</h3>
+
+### 課題および申請者の要件
+{: .ah3 }
 
 <ul class="dot_ul">
 <li class="dot"> ABCI上で最大1,088ノード（4,352GPU）を使用して大規模処理を実施する、人工知能に関する挑戦的な課題であること。</li>
@@ -71,7 +84,10 @@ img: event2.png
 
 <br />
 
-<h3 class="ah3">応  募</h3>
+
+### 応  募
+{: .ah3 }
+
 <div class="c">
 <p>応募書類の様式は以下からダウンロードしてください。</p>
 <p><a href="../../../../assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word形式</strong></a> <a href="../../../../assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF形式</strong></a></p>
@@ -81,9 +97,9 @@ img: event2.png
 </div>
 
 
+### 課題審査
+{: .ah3 }
 
-
-<h3 class="ah3">課題審査</h3>
 <div class="c">
 <p class="mb2p">課題審査は、ABCIグランドチャレンジ実行委員会に設置される課題審査委員会において、書類審査およびその結果を踏まえた討議により行います。</p>
 主な審査項目は以下の通りです<br />
@@ -97,8 +113,9 @@ img: event2.png
 </div>
 
 
+### 成  果
+{: .ah3 }
 
-<h3 class="ah3">成  果</h3>
 <ul class="dot_ul">
 <li class="dot">実施結果は、課題実施後1か月以内に産総研が提供する様式にしたがった実施報告書として提出してください。</li>
 <li class="dot">本プログラムによって得られた成果は、原則として公開していただきます。</li>
@@ -109,7 +126,10 @@ img: event2.png
 
 <br />
 
-<h3 class="ah3">研究成果を報告する場合の表記</h3>
+
+### 研究成果を報告する場合の表記
+{: .ah3 }
+
 <div class="c">
 <p>本プログラムを用いて得た成果を論文等を出版される場合は、以下の例文の記載をお願いします。</p>
 <div>
@@ -122,3 +142,5 @@ img: event2.png
 日本語 ／ 産総研「ABCIグランドチャレンジ」プログラムにより提供を受けた，AI橋渡しクラウド（ABCI）の計算リソースを用いた．<br />
 英語 ／ Computational resource of AI Bridging Cloud Infrastructure (ABCI) was awarded by
 “ABCI Grand Challenge” Program, National Institute of Advanced Industrial Science and Technology (AIST).
+
+

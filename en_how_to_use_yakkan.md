@@ -99,7 +99,7 @@ permalink: /en/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">Is it possible for an individual user to apply using Attachment No.2?</dt>
-<dd class="a">Only when AIST has given advance approval, is it possible for an individual to apply using Attachment No.2.
+<dd class="a">Only when AIST has given advance approval, it is possible for an individual to apply using Attachment No.2.
 <div align="right"><span class="a_title">Category</span>1.Application <span class="a_title">Number</span>1-14</div>
 </dd>
 </dl>
@@ -171,7 +171,8 @@ permalink: /en/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">According to Article No. 21 of ABCI Agreement; "ABCI User Representative must notify AIST in advance when a user publicizes research results produced while using ABCI at a conference presentation, a conference announcement, or in a press release." How much information should I provide to AIST?</dt>
-<dd class="a">For conferences, please provide the name of the academic society, conference name, presentation summary/abstract and date.  For a press release, please provide the date of release, summary of the press release, and any web links to the press release.
+<dd class="a">For conferences, please provide the name of the academic society, conference name, presentation summary/abstract and date.  For a press release, please provide the date of release, summary of the press release, and any web links to the press release. The information may be submitted to ABCI Application Reception:abci-application-ml@aist.go.jp
+
 
 <div align="right"><span class="a_title">Category</span>7.Application<span class="a_title">Number</span>7-1</div>
 </dd>

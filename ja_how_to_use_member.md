@@ -50,29 +50,6 @@ permalink: /ja/how_to_use/member.html
 </div>
 
 
-<br /><br />
-<h3 class="h3">ABCI利用登録申請（利用者からの申請）：「規約」別紙様式第２</h3>
-
-<div class="bubble">
-<h4 class="h4">ABCI利用登録申請（利用者からの申請）（別紙様式第２）*</h4>
-<a href="https://portal.abci.ai/user/project_regist_app.php" target="_blank"><u>https://portal.abci.ai/user/project_regist_app.php</u></a><br />
-
-<h3><span style="color:#F00">本機能は現在、ご利用いただけません。</span></h3>
-
-</div>
-<div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-<div class="bubble">
-<h4 class="h4">必要に応じて利用申請担当からの問い合わせに回答</h4>
-</div>
-<div align="center"><img src="../../img/how_to_use/d_arrow.gif" /></div>
-
-<div class="bubble">
-<h4 class="h4">ABCIアカウントを発行<br />（ABCIをご利用開始いただけます）</h4>
-
-</div><br />
-<strong>*重要：利用者の本人確認用証明書として「マイナンバーカード」を使用する際は、「個人番号」の記載された面はコピー・添付しないでください。</strong>
-
-
 <br /><br /><br />
 <h3 class="h3">ABCI利用登録内容の変更：「規約」別紙様式第３</h3>
 <div class="bubble">
@@ -89,5 +66,3 @@ permalink: /ja/how_to_use/member.html
 <div class="bubble">
 <h4 class="h4">変更内容が反映される<br />（利用者ポータルにてご確認ください）</h4>
 </div>
-
-

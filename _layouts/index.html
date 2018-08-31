@@ -61,7 +61,7 @@
 {% assign tmp = "" %}
 {% for post in site.posts %}
   {% if post.lang == 'en' %} 
-    {% if categories == 'HEADLINE' %} 
+    {% if post.categories == 'HEADLINE' %} 
 <li><span>{{ post.showdate }} </span>{{ post.title }}</li>
     {% else if post.outurl != null and post.outurl != '' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>

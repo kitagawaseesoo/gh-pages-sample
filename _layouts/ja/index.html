@@ -94,7 +94,7 @@
 <h2 class="widget_title">イベント情報<a href="../ja/event/" class="more_link">イベント情報アーカイブ</a></h2>
 <ul class="ns cf">
 {% assign tmp = "" %}
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
   {% if post.lang == 'ja' %} 
     {% for categories in post.categories %}
       {% if categories == 'EVENT' %} 

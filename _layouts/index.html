@@ -94,14 +94,16 @@
 <div id="event">
 <h2 class="widget_title">Event<a href="./en/event/" class="more_link">Event Archives</a></h2>
 <ul class="ns cf">
+{% assign dt_now = 'now' | date: "%Y%m%d" %}
 {% assign tmp = "" %}
 {% for post in site.posts reversed %}
   {% if post.lang == 'en' %} 
     {% for categories in post.categories %}
       {% if categories == 'EVENT' %} 
 
-{% assign aaa = { post.date | date: "%Y%m%d" } %}
-{{ aaa }}
+{% assign dt_date = page.date | date: "%Y%m%d" %}
+
+#{{ dt_now }}@{{ dt_date }}#
 
 
         {% if tmp.size >= 3 %} 

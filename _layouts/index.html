@@ -100,6 +100,9 @@
     {% for categories in post.categories %}
       {% if categories == 'EVENT' %} 
 
+{{ post.date | date: "%Y%m%d" }}
+
+
         {% if tmp.size >= 3 %} 
           {% assign class = ' class="disnone"' %}
         {% else %}

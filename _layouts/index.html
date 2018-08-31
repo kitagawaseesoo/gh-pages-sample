@@ -101,10 +101,11 @@
     {% for categories in post.categories %}
       {% if categories == 'EVENT' %} 
 
-{% assign dt_date = page.date | date: "%Y%m%d" %}
+        {% assign dt_date = post.date | date: "%Y%m%d" %}
 
+        {% if dt_date >= dt_now %} 
 #{{ dt_now }}@{{ dt_date }}#
-
+        {% endif %} 
 
         {% if tmp.size >= 3 %} 
           {% assign class = ' class="disnone"' %}

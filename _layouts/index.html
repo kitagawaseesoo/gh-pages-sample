@@ -61,12 +61,10 @@
 {% assign tmp = "" %}
 {% for post in site.posts %}
   {% if post.lang == 'en' %} 
-    {% if post.outurl != null and post.outurl != '' %} 
-      {% if post.outurl == '-' %} 
-<li><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</li>
-      {% else %}
+    {% if categories == 'HEADLINE' %} 
+<li><span>{{ post.showdate }} </span>{{ post.title }}</li>
+    {% elseif post.outurl != null and post.outurl != '' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
-      {% endif %}
     {% else %}
 <li><a href=".{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}

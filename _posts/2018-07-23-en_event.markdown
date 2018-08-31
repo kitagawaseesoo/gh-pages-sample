@@ -6,5 +6,4 @@ showdate: 2018.07.23-27
 lang: en
 categories: EVENT
 img: event2.png
-outurl: -
 ---

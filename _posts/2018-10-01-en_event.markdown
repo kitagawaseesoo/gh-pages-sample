@@ -6,5 +6,4 @@ showdate: 2018.10.01
 lang: en
 categories: EVENT
 img: event2.png
-outurl: -
 ---

@@ -60,21 +60,24 @@
 <ul class="ns">
 {% assign tmp = "" %}
 {% for post in site.posts %}
-  {% if post.lang == 'en' %} 
-    {% if post.categories != 'HEADLINE' %} 
-<li><span>{{ post.showdate }} </span>{{ post.title }}</li>
-    {% else if post.outurl != null and post.outurl != '' %} 
+  {% for categories in post.categories %}
+    {% if post.lang == 'en' %} 
+      {% if categories == 'HEADLINE' %} 
+<li><span>{{ post.showdate }} </span><br />{{ post.title }}</li>
+      {% else if post.outurl != null and post.outurl != '' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
-    {% else %}
+      {% else %}
 <li><a href=".{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
-    {% endif %}
+      {% endif %}
 
-    {% assign tmp = tmp | append: "*" %}
-    {% if tmp.size >= 5 %} 
-      {% break %}
+      {% assign tmp = tmp | append: "*" %}
+      {% if tmp.size >= 5 %} 
+        {% break %}
+      {% endif %}
     {% endif %}
-  {% endif %}
-{% endfor %}</ul>
+  {% endfor %}
+{% endfor %}
+</ul>
 </div>
 </div>
 

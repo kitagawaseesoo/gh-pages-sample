@@ -6,5 +6,5 @@ showdate: 2018.07.23-27
 lang: en
 categories: EVENT
 img: event2.png
-outurl: https://www.aist.go.jp/aist_j/press_release/pr2018/pr20180626/pr20180626.html
+outurl: "-"
 ---

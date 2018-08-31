@@ -56,7 +56,7 @@
 
 
 <div id="abci_headline">
-<h2 class="widget_title mb15">@ABCI Headline</h2>
+<h2 class="widget_title mb15">ABCI Headline</h2>
 <ul class="ns">
 {% assign tmp = "" %}
 {% for post in site.posts %}
@@ -95,7 +95,7 @@
 <h2 class="widget_title">Event<a href="./en/event/" class="more_link">Event Archives</a></h2>
 <ul class="ns cf">
 {% assign tmp = "" %}
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
   {% if post.lang == 'en' %} 
     {% for categories in post.categories %}
       {% if categories == 'EVENT' %} 
@@ -107,21 +107,12 @@
         {% endif %}
 
         {% if post.outurl != null and post.outurl != '' %} 
-
-		{% if post.outurl == '-' %} 
-<li{{ class }}><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></li>
-		{% else %}
 <li{{ class }}><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
-		{% endif %}
-
         {% else %}
 <li{{ class }}><a href=".{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
         {% endif %}
 
         {% assign tmp = tmp | append: "*" %}
-        {% if tmp.size >= 34 %} 
-          {% break %}
-        {% endif %}
 
       {% endif %}
     {% endfor %}
@@ -130,10 +121,12 @@
 </ul>   
 </div>
 
+{% if tmp.size >= 3 %} 
 <div class="btn_area">
 <a href="javascript:;" id="read_more" class="btn">Read More</a>
 <a href="javascript:;" id="btn_close" class="btn">Hidden</a>
 </div>
+{% endif %}
 
 </div>
 

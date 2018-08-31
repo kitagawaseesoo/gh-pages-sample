@@ -118,6 +118,9 @@
         {% endif %}
 
         {% assign tmp = tmp | append: "*" %}
+        {% if tmp.size >= 34 %} 
+          {% break %}
+        {% endif %}
 
       {% endif %}
     {% endfor %}

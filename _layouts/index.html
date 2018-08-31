@@ -104,22 +104,22 @@
         {% assign dt_date = post.date | date: "%Y%m%d" %}
 
         {% if dt_date >= dt_now %} 
-#{{ dt_now }}@{{ dt_date }}#
-        {% endif %} 
 
-        {% if tmp.size >= 3 %} 
-          {% assign class = ' class="disnone"' %}
-        {% else %}
-          {% assign class = "" %}
-        {% endif %}
+          {% if tmp.size >= 3 %} 
+            {% assign class = ' class="disnone"' %}
+          {% else %}
+            {% assign class = "" %}
+          {% endif %}
 
-        {% if post.outurl != null and post.outurl != '' %} 
+          {% if post.outurl != null and post.outurl != '' %} 
 <li{{ class }}><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
-        {% else %}
+          {% else %}
 <li{{ class }}><a href=".{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
-        {% endif %}
+          {% endif %}
 
-        {% assign tmp = tmp | append: "*" %}
+          {% assign tmp = tmp | append: "*" %}
+
+        {% endif %} 
 
       {% endif %}
     {% endfor %}

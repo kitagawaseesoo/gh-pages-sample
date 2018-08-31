@@ -100,7 +100,7 @@
     {% for categories in post.categories %}
       {% if categories == 'EVENT' %} 
 
-        {% if tmp.size >= 3 %} 
+        {% if tmp.size > 3 %} 
           {% assign class = ' class="disnone"' %}
         {% else %}
           {% assign class = "" %}
@@ -121,7 +121,7 @@
 </ul>   
 </div>
 
-{% if tmp.size >= 3 %} 
+{% if tmp.size > 3 %} 
 <div class="btn_area">
 <a href="javascript:;" id="read_more" class="btn">Read More</a>
 <a href="javascript:;" id="btn_close" class="btn">Hidden</a>

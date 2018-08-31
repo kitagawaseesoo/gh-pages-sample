@@ -61,6 +61,8 @@
 {% assign tmp = "" %}
 {% for post in site.posts %}
   {% if post.lang == 'en' %} 
+<li><span>!!{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</li>
+
     {% if post.outurl != null and post.outurl != '' %} 
       {% if post.outurl == '-' %} 
 <li><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</li>

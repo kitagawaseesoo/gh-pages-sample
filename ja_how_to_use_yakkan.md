@@ -31,7 +31,7 @@ permalink: /ja/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">利用目的はどの程度まで詳しく記述する必要がありますか？</dt>
-<dd class="a">利用目的は、研究開発が目的であること（商用を目的とした研究開発も含む）が確認できるレベルで記述してください。
+<dd class="a">利用目的は、研究開発が目的であること（商用を目的とした研究開発も含む）が確認できるレベルで記述してください。実際にABCIを利用する各利用者の利用目的で判断されます。「機械学習」については、「学習」に利用する場合研究開発とみなします。また、人材開発（人工知能技術研修等）のための利用も研究開発とみなします。
 <div align="right"><span class="a_title">分類</span>1.利用申請<span class="a_title">通し番号</span>1-4</div>
 </dd>
 </dl>
@@ -142,6 +142,13 @@ permalink: /ja/how_to_use/yakkan.html
 </dl>
 
 <dl class="faq">
+<dt class="q">ABCIアカウント発行のメールを受信してから数日後にメール内のリンクへアクセスしたら、アクセスできなくなりました。仮パスワードの再発行を依頼するにはどのようにすればいいですか？</dt>
+<dd class="a">下記のURLへアクセスし、指示に従ってください。<br />https://portal.abci.ai/user/
+<div align="right"><span class="a_title">分類</span>3.ABCIアカウント<span class="a_title">通し番号</span>3-3</div>
+</dd>
+</dl>
+
+<dl class="faq">
 <dt class="q">ABCIの情報セキュリティはどのように管理されていますか？</dt>
 <dd class="a">「情報セキュリティに関するホワイトペーパー」を公開予定です。
 <div align="right"><span class="a_title">分類</span>4.情報セキュリティ<span class="a_title">通し番号</span>4-1</div>
@@ -172,7 +179,7 @@ permalink: /ja/how_to_use/yakkan.html
 
 <dl class="faq">
 <dt class="q">約款第21条で、「利用責任者は、利用者等が、ABCI利用サービスを利用した事実を、学会発表、国際会議発表、プレスリリース等で発表する場合は、利用者の秘密情報を除き、事前にその情報を研究所に提供しなければなりません。」との規定がありますが、どの程度の情報を提供すればいいですか？</dt>
-<dd class="a">学会発表や国際会議発表の場合は学会名或いは国際会議名と発表概要、プレスリリースではリリース日とリリース概要をご提供ください。
+<dd class="a">学会発表や国際会議発表の場合は学会名或いは国際会議名と発表概要、プレスリリースではリリース日とリリース概要をご提供ください。また、提出先は、下記のメーリングリストまでお願いします。<br />abci-application-ml <abci-application-ml@aist.go.jp>
 
 <div align="right"><span class="a_title">分類</span>7.対外発表<span class="a_title">通し番号</span>7-1</div>
 </dd>

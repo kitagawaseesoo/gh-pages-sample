@@ -62,7 +62,11 @@
 {% for post in site.posts %}
   {% if post.lang == 'en' %} 
     {% if post.outurl != null and post.outurl != '' %} 
+	{% if post.outurl == '-' %} 
+<li><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</li>
+	{% else %}
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
+	{% endif %}
     {% else %}
 <li><a href=".{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
     {% endif %}
@@ -87,7 +91,7 @@
 </div>
 
 <div id="event">
-<h2 class="widget_title">Event<a href="./ja/event/" class="more_link">Event Archives</a></h2>
+<h2 class="widget_title">Event<a href="./en/event/" class="more_link">Event Archives</a></h2>
 <ul class="ns cf">
 {% assign tmp = "" %}
 {% for post in site.posts %}
@@ -102,7 +106,13 @@
         {% endif %}
 
         {% if post.outurl != null and post.outurl != '' %} 
+
+		{% if post.outurl == '-' %} 
+<li{{ class }}><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></li>
+		{% else %}
 <li{{ class }}><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+		{% endif %}
+
         {% else %}
 <li{{ class }}><a href=".{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="./img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="./img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
         {% endif %}

@@ -22,10 +22,10 @@ permalink: /en/about_abci/info.html
   <tr>
     <td>9/21 13:00 </td>
     <td>9/26 13:00 </td>
-    <td>ABCI and ABCI User Portal are not available due to planned Electric Power maintenance<br />(date/time may change)</td>
+    <td>ABCI and ABCI User Portal are not available due <br />to planned Electric Power maintenance<br />(date/time may change)</td>
   </tr>
   <tr>
-    <td>End of October Date and <br />(Time to be determined)</td>
+    <td>End of Octobder<br />(Date and Time to be determined)</td>
     <td>&nbsp;</td>
     <td>ABCI is not available due to ABCI Grand Challenge.</td>
   </tr>
@@ -46,7 +46,7 @@ permalink: /en/about_abci/info.html
 ### Notice
 {: .h3 }
 
-2018/07/20 14:00 ABCI User Portal starts operation.<br />
-2018/08/01 13:00 ABCI Cloud services starts.<br />
+2018/07/20 14:00 ABCI User Portal starts.<br />
+2018/08/01 13:00 ABCI Cloud services start.<br />
 
 

@@ -75,7 +75,9 @@ gtag('config', 'UA-118371652-1');
       {% if categories == 'EVENT' %} 
 
         {% if post.outurl != null and post.outurl != '' %} 
+		{% if post.outurl != '-' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
+		{% endif %}
         {% else %}
 <li><a href="../..{{ post.url }}"><div><strong>{{ post.title }}</strong></div><figure><img src="../../img/event/{{ post.img }}" alt="" /></figure><p class="cf"><img src="../../img/icon/s_logo.png" />{{ post.showdate }}</p></a></li>
         {% endif %}

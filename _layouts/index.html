@@ -100,7 +100,8 @@
     {% for categories in post.categories %}
       {% if categories == 'EVENT' %} 
 
-{{ post.date | date: "%Y%m%d" }}
+{% assign aaa = { post.date | date: "%Y%m%d" } %}
+{{ aaa }}
 
 
         {% if tmp.size >= 3 %} 

@@ -15,29 +15,29 @@ permalink: /en/about_abci/info.html
 <p class="c">ABCI and/or ABCI User Portal is not available during the following hours:</p>
 <table class="table">
   <tr>
-    <th>Start Day/Time</th>
-    <th>Finish Day/Time</th>
+    <th>Start <br />Day/Time</th>
+    <th>Finish <br />Day/Time</th>
     <th>Affected Systems</th>
   </tr>
   <tr>
     <td>9/21 13:00 </td>
     <td>9/26 13:00 </td>
-    <td>ABCI and ABCI User Portal are not available due <br />to planned Electric Power maintenance<br />(date/time may change)</td>
+    <td>ABCI and ABCI User Portal are not available<br />due to planned Electric Power maintenance<br />(date/time may change)</td>
   </tr>
   <tr>
-    <td>End of Octobder<br />(Date and Time to be determined)</td>
+    <td>End of Octobder<br />(Date and Time <br />to be determined)</td>
     <td>&nbsp;</td>
-    <td>ABCI is not available due to ABCI Grand Challenge.</td>
+    <td>ABCI is not available <br />due to ABCI Grand Challenge.</td>
   </tr>
   <tr>
-    <td>Mid of December <br />(Date and Time to be determined)</td>
+    <td>Mid of December <br />(Date and Time <br />to be determined)</td>
     <td>&nbsp;</td>
-    <td>ABCI and ABCI User Portal are not available due to planned Electric Power maintenance.</td>
+    <td>ABCI and ABCI User Portal are not available <br />due to planned Electric Power maintenance.</td>
   </tr>
   <tr>
-    <td>End of January <br />(Date and Time to be determined)</td>
+    <td>End of January <br />(Date and Time <br />to be determined)</td>
     <td>&nbsp;</td>
-    <td>ABCI is not available due to ABCI Grand Challenge.</td>
+    <td>ABCI is not available <br />due to ABCI Grand Challenge.</td>
   </tr>
 </table>
 <br /><br />
@@ -48,5 +48,3 @@ permalink: /en/about_abci/info.html
 
 2018/07/20 14:00 ABCI User Portal starts.<br />
 2018/08/01 13:00 ABCI Cloud services start.<br />
-
-

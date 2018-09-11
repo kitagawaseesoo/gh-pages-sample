@@ -39,9 +39,14 @@ permalink: /ja/about_abci/info.html
     <td>停電に伴うメンテナンスのために利用者ポータル停止、ABCI全体停止<br />(予定は変更になる可能性があります)</td>
   </tr>
   <tr>
-    <td>10月下旬</td>
+    <td>10/23 12:00</td>
+    <td>10/26 12:00</td>
+    <td>ABCIグランドチャレンジ実施に伴うABCIサービス利用制限<br />(ABCI全ノード利用不可となります。)</td>
+  </tr>
+  <tr>
+    <td>10月下旬～<br />11月上旬</td>
     <td>日時未定</td>
-    <td>ABCIグランドチャレンジ実施に伴うABCIサービスの一部制限<br />(全計算ノード利用不可期間が含まれます)</td>
+    <td>停電に伴うメンテナンスのために利用者ポータル停止、ABCI全体停止</td>
   </tr>
   <tr>
     <td>12月中旬</td>
@@ -52,11 +57,6 @@ permalink: /ja/about_abci/info.html
     <td>1月下旬</td>
     <td>日時未定</td>
     <td>ABCIグランドチャレンジ実施に伴うABCIサービスの一部制限<br />(全計算ノード利用不可期間が含まれます)</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
   </tr>
 </table>
 <br /><br />

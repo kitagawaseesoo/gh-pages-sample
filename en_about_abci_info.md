@@ -15,57 +15,57 @@ permalink: /en/about_abci/info.html
 <p class="c">Here is the current operation status and the problem status.</p>
 <table class="table">
   <tr>
-    <th>Start Date</th>
-    <th>Time End Date</th>
-    <th>Time The Current Operation Status and the Problem Status</th>
+    <th><nobr>Start Date Time</nobr></th>
+    <th><nobr>End Date Time</nobr></th>
+    <th>The Current Operation Status <br />and the Problem Status</th>
   </tr>
   <tr>
     <td>2018/8/1</td>
     <td>&nbsp;</td>
-    <td>ABCI system and ABCI User Portal is now up and running.<br />No problem is found now.</td>
+    <td>ABCI system and ABCI User Portal is now up <br />and running.<br />No problem is found now.</td>
   </tr>
 </table>
 <br /><br />
 <p class="c">Here is the future operation schedule.</p>
 <table class="table">
   <tr>
-    <th>Start Date</th>
-    <th>Time End Date</th>
-    <th>Time The Future Operation Schedule</th>
+    <th><nobr>Start Date Time</nobr></th>
+    <th><nobr>End Date Time</nobr></th>
+    <th>The Future Operation Schedule</th>
   </tr>
   <tr>
     <td>9/21 13:00</td>
     <td>9/26 13:00</td>
-    <td>Whole ABCI system and ABCI User Portal stopped, due to electric power outage.<br />(Planned schedule may be changed.)</td>
+    <td>Whole ABCI system and ABCI User Portal stopped, <br />due to electric power outage.<br />(Planned schedule may be changed.)</td>
   </tr>
   <tr>
-    <td>End of Oct TBD</td>
-    <td>Whole</td>
-    <td>ABCI usage restricted due to "ABCI Grand Challenge #2" <br />(The restriction of whole nodes usage is included.)</td>
+    <td>10/23 12:00</td>
+    <td>10/26 12:00</td>
+    <td>ABCI service restriction due to "ABCI Grand Challenge #2" <br />(The whole ABCI nodes are out of services.)</td>
+  </tr>
+  <tr>
+    <td>End of Oct～<br />Top of Nov<br />TBD</td>
+    <td>&nbsp;</td>
+    <td>ABCI system and ABCI User Portal stopped, due to electric power outage.</td>
   </tr>
   <tr>
     <td>Mid of Dec TBD</td>
-    <td>Whole</td>
+    <td>&nbsp;</td>
     <td>ABCI system and ABCI User Portal stopped, due to electric power outage.</td>
   </tr>
   <tr>
     <td>End of Jan TBD</td>
-    <td>Whole</td>
+    <td>&nbsp;</td>
     <td>ABCI usage restricted due to "ABCI Grand Challenge #2" <br />(The restriction of whole nodes usage is included.)</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
   </tr>
 </table>
 <br /><br />
 <p class="c">Here is the past system down history.</p>
 <table class="table">
   <tr>
-    <th>Start Date</th>
-    <th>Time End Date</th>
-    <th>Time The Past System Down History</th>
+    <th><nobr>Start Date Time</nobr></th>
+    <th><nobr>End Date Time</nobr></th>
+    <th>The Past System Down History</th>
   </tr>
   <tr>
     <td>2018/7/27 14:00</td>

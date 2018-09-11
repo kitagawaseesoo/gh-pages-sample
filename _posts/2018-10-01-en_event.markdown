@@ -40,22 +40,22 @@ outurl:
 <th>Challenge Execution Period</th>
 </tr>
 <tr>
-<td>No.1 (Finished)</td>
+<td>No.1 <br /><nobr>(Finished)</nobr></td>
 <td>2018.4.1-2018.4.30</td>
 <td>2018.5.30</td>
 <td>2018.7.23-2018.7.27</td>
 </tr>
 <tr>
-<td>No.2 (On Going)</td>
+<td>No.2 <br /><nobr>(On Going)</nobr></td>
 <td>2018.8.1-2018.8.31</td>
 <td>2018.9.30</td>
-<td>End of 2018.10. (Tentative Date)</td>
+<td>End of 2018.10. <br />(Tentative Date)</td>
 </tr>
 <tr>
 <td>No.3</td>
 <td>2018.11.1-2018.11.30</td>
 <td>2018.12.21</td>
-<td>End of 2019.1. (Tentative Date)</td>
+<td>End of 2019.1. <br />(Tentative Date)</td>
 </tr>
 </table>
 <br />
@@ -89,7 +89,7 @@ outurl:
 
 <div class="c">
 <p>Please download the Application Form from the following URL</p>
-<p><a href="../../../../assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word format</strong></a> <a href="../../../../assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF format</strong></a></p>
+<p><a href="../../../../assets/GrandChallenge/abci-gc-proposal.docx" class="link"><strong>Word format</strong></a>&nbsp;&nbsp;<a href="../../../../assets/GrandChallenge/abci-gc-proposal.pdf" class="link ml30"><strong>PDF format</strong></a></p>
 Please fill in all the necessary items in the Application Form, and send it by email to the following address by the application deadline:<br />
 Submission email address: <a href="mailto:abci-gc@aist.go.jp" target="_blank" class="link"><strong>abci-gc@aist.go.jp</strong></a><br />
 Notification of acceptance will be sent by email.<br />

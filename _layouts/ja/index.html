@@ -57,21 +57,15 @@
 <div id="abci_headline">
 <h2 class="widget_title mb15">ABCIヘッドライン</h2>
 <ul class="ns">
-{% assign tmp = "" %}
 {% for post in site.posts %}
   {% for categories in post.categories %}
-    {% if post.lang == 'ja' %} 
+    {% if post.lang == 'ja' and post.headline == '1' %} 
       {% if categories == 'HEADLINE' %} 
 <li><b><span>{{ post.showdate }} </span><br />{{ post.title }}</b></li>
       {% elsif post.outurl != null and post.outurl != '' %} 
 <li><a href="{{ post.outurl }}" target="_blank"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
       {% else %}
 <li><a href="..{{ post.url }}"><span>{{ post.showdate }} [{{ post.categories }}]</span>{{ post.title }}</a></li>
-      {% endif %}
-
-      {% assign tmp = tmp | append: "*" %}
-      {% if tmp.size >= 5 %} 
-        {% break %}
       {% endif %}
     {% endif %}
   {% endfor %}
